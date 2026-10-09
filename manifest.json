@@ -1,0 +1,1503 @@
+{
+  "format": "watch-collection-manifest-v1",
+  "version": "1.0.0",
+  "source": {
+    "file": "watch-collection-1.0-b71d66023e87a482.json",
+    "bytes": 19357008,
+    "sha256": "b71d66023e87a48244715c28061bc17adedfacb87119295f7909cd56ae02af43"
+  },
+  "file_count": 298,
+  "total_file_bytes": 14480010,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 604,
+      "sha256": "b49a1bda4e24e359be737c7c239370035905b4bafe2324567f8f326b83a79a6c"
+    },
+    {
+      "path": ".npmrc",
+      "bytes": 45,
+      "sha256": "a3909ac0447c469fda12c57374993be70f47ce73e49fd3124678c7c047f2214d"
+    },
+    {
+      "path": ".openai/hosting.json",
+      "bytes": 35,
+      "sha256": "19eb224377da1b32fbd3fdfb17aadf710b8c5696e9f96250ffe6adafc0641724"
+    },
+    {
+      "path": "INSTALL.md",
+      "bytes": 7590,
+      "sha256": "203b8cd1bc5b2484f519dd355a5adf6a658ae2d8f8111bd648e43cf4c093f335"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10120,
+      "sha256": "b670ba0eff3b6b1598f619278ca1f61eb609bebc1f80f68c56829905d715dac7"
+    },
+    {
+      "path": "app/api/collection/route.ts",
+      "bytes": 3504,
+      "sha256": "4dab6b637ffbe40e7aff4a94cc565f18bf3603a1a127a76a2466a3c58ba45479"
+    },
+    {
+      "path": "app/api/fx/route.ts",
+      "bytes": 1132,
+      "sha256": "228be8e2202593dc8c1b82a34d485f7cf467b5efc38bd32e65efab91bcefc513"
+    },
+    {
+      "path": "app/api/me/route.ts",
+      "bytes": 261,
+      "sha256": "c49bb87bbd78374d61d2d46e7077e0d6809fced80bac647ea30196d5bc10fa16"
+    },
+    {
+      "path": "app/api/photos/[id]/route.ts",
+      "bytes": 575,
+      "sha256": "a27e86bab3dec7952a742dedd7e431f3a1b19cf514f20e63b94fbd891c719faf"
+    },
+    {
+      "path": "app/api/photos/route.ts",
+      "bytes": 913,
+      "sha256": "051168bc1b1dc59740a414ccbcfd279b53150a311005ca5e23dd75a3acf409d8"
+    },
+    {
+      "path": "app/chatgpt-auth.ts",
+      "bytes": 2550,
+      "sha256": "4265a2e7c2dcb3a6f4b7026f762bf5b6e4caec76cc13c0a45987ee9a9f2e42cc"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 86,
+      "sha256": "4f2ce928598ba0c8e396e397b298b127a7c0eb2afcf8d9436a5f4b7cea634b7c"
+    },
+    {
+      "path": "app/layout.tsx",
+      "bytes": 541,
+      "sha256": "ccebae15b0af5388ed5ab9e7e152cad5fc801e4218c47247dfa611473d283c35"
+    },
+    {
+      "path": "app/page.tsx",
+      "bytes": 301,
+      "sha256": "7f7969027d81b58f42474dd2857169c479657270b2630ca2d6f3266f506b93a5"
+    },
+    {
+      "path": "build/connector-preview-plugin.mjs",
+      "bytes": 7211,
+      "sha256": "a6a9fe2086e302f94a3f91e3c1a68a45bb3aa07d4a79faf01b14732191eb4e80"
+    },
+    {
+      "path": "build/connector-preview-worker.mjs",
+      "bytes": 594,
+      "sha256": "c1b6b2c420cb67d9e28f8f4ae440f578c0dfd4cb840a12cfe4b58076629a17ba"
+    },
+    {
+      "path": "build/sites-vite-plugin.LICENSE",
+      "bytes": 1063,
+      "sha256": "7de1e115d165f176e68f962acdb809b5ab8d8ae78d3981e0701392b2ac50c713"
+    },
+    {
+      "path": "build/sites-vite-plugin.ts",
+      "bytes": 7185,
+      "sha256": "07af20e7097d9ed1d76f7c446d02997550b8fc5ca89668b249e25eabd62c6834"
+    },
+    {
+      "path": "build/sites-worker.ts",
+      "bytes": 1279,
+      "sha256": "28a75f74adfc226a773d1c00d5779c26412eea40a104da5c77f7d0f0fc30f0e8"
+    },
+    {
+      "path": "cloudflare-env.d.ts",
+      "bytes": 99,
+      "sha256": "8b0eca84aa3364cc7ccc43cc3af6beb88dd34ebd410de08690bf094ce39fbcb0"
+    },
+    {
+      "path": "components.json",
+      "bytes": 420,
+      "sha256": "31f4ca67a4a62572571003d3d5aac85ee6fbfca67a192924bac6b168d95e98fd"
+    },
+    {
+      "path": "components/connector-error.tsx",
+      "bytes": 1082,
+      "sha256": "2d0d04559952ce9c9a327cca499f4b99f35d885cccfce375230e116695d3f155"
+    },
+    {
+      "path": "components/ui/accordion.tsx",
+      "bytes": 2048,
+      "sha256": "a4f153089ba886dfcf73fac26b5c01ca933fa12fbe88df6fb723912bfffdfbb0"
+    },
+    {
+      "path": "components/ui/alert-dialog.tsx",
+      "bytes": 5439,
+      "sha256": "9a8d950f2b9b4352d5ebb762fb44d5c28c2d353aa29712071973656a8736e311"
+    },
+    {
+      "path": "components/ui/alert.tsx",
+      "bytes": 1614,
+      "sha256": "2cc59b5f7bda91c1670884b1bf46bfc8a2a6f226cef184f5762acc037188885b"
+    },
+    {
+      "path": "components/ui/aspect-ratio.tsx",
+      "bytes": 274,
+      "sha256": "b1c157886236782cb92d8fbcd4749532aaf6d8aabefd6e157ca40358f902f407"
+    },
+    {
+      "path": "components/ui/attachment.tsx",
+      "bytes": 6002,
+      "sha256": "ae8a25dd1a896d3964e3ef54d97e51221b418cde287dfd794428b89951c5c790"
+    },
+    {
+      "path": "components/ui/avatar.tsx",
+      "bytes": 2916,
+      "sha256": "58a846bf1617b94b9681921db9b8461d0145f311424663d11678a06b6153cb34"
+    },
+    {
+      "path": "components/ui/badge.tsx",
+      "bytes": 1776,
+      "sha256": "46a0de5224f6a5d5d63d45246534288518dce888f031064bff925bbc7fe6ad97"
+    },
+    {
+      "path": "components/ui/breadcrumb.tsx",
+      "bytes": 2350,
+      "sha256": "d4c0831bba2212e778248f54a6ace6ef378df8bba4616d1abf27787a31eabae5"
+    },
+    {
+      "path": "components/ui/bubble.tsx",
+      "bytes": 4699,
+      "sha256": "870cc0c5cfc8a515053f7e41e706a6bd017a909b45f1305fd3b164a52cc4483b"
+    },
+    {
+      "path": "components/ui/button-group.tsx",
+      "bytes": 2202,
+      "sha256": "784c89d8ee683e1bc972ae69e6ea8225a7f63abe22aa1b5fc3423ae8a2a399c0"
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "bytes": 2392,
+      "sha256": "cc36af0f8b5019c33cc039fbf03bb952a513072b15b55b53c592b78af3e5f4c4"
+    },
+    {
+      "path": "components/ui/calendar.tsx",
+      "bytes": 7832,
+      "sha256": "3855fbe0d3f8ad3a4b93071f98b76a9f6782d46ec8b05f5d2ddbee1e4e39bc84"
+    },
+    {
+      "path": "components/ui/card.tsx",
+      "bytes": 1987,
+      "sha256": "c48dd3b96be90a7066f1aebf294f0af9d00ebcdc367d5d4aca55429ade570c1c"
+    },
+    {
+      "path": "components/ui/carousel.tsx",
+      "bytes": 5556,
+      "sha256": "b7ea0dda3903d972c186f739e23da61f547bc83b5a0bf13b16856577846d5fc3"
+    },
+    {
+      "path": "components/ui/chart.tsx",
+      "bytes": 10614,
+      "sha256": "45aa5ea4a386f4fb5b8869ff4bab3a08cf89255190ee322043baf84c3e950b6a"
+    },
+    {
+      "path": "components/ui/checkbox.tsx",
+      "bytes": 1214,
+      "sha256": "b23ab9d4deeedf2ac8f512c368361ede681aa383437ef48563a6f9b7dbe95f27"
+    },
+    {
+      "path": "components/ui/collapsible.tsx",
+      "bytes": 795,
+      "sha256": "c6598e5584f4258b5d9fefadbc5ad6a66888ad58729f4b634a0bb2d9c513188b"
+    },
+    {
+      "path": "components/ui/combobox.tsx",
+      "bytes": 9158,
+      "sha256": "2d68e78b2dc7e38a085f222dede60a80b4f8229a6e91732c484605e204d46735"
+    },
+    {
+      "path": "components/ui/command.tsx",
+      "bytes": 4818,
+      "sha256": "361193df1e3d64a9e9b5048f045264782fcb387aab3f00f2b805fdcbf538b16a"
+    },
+    {
+      "path": "components/ui/context-menu.tsx",
+      "bytes": 8268,
+      "sha256": "2cf1fcf59df0649a3e2a126d1df2f639145f6b6bf5689ee54af1f40ab1245017"
+    },
+    {
+      "path": "components/ui/dialog.tsx",
+      "bytes": 4303,
+      "sha256": "dce39c6adc47d997bd2567f8b7a72f466b0134715105cd42f9194007b8ecdb14"
+    },
+    {
+      "path": "components/ui/direction.tsx",
+      "bytes": 506,
+      "sha256": "84ae2ad658207f0e0f367978e5508cd8027cd00c29c41d3d13db21a708c3d1e6"
+    },
+    {
+      "path": "components/ui/drawer.tsx",
+      "bytes": 4255,
+      "sha256": "cb6eaf58eb0757ca91af284e5d925b89a42ad7eb19cb3f44c575a3487aa9350f"
+    },
+    {
+      "path": "components/ui/dropdown-menu.tsx",
+      "bytes": 8418,
+      "sha256": "98f0dcdae38225b73734aceeb9213dd751fea2c72ea520df31003cd133deac8a"
+    },
+    {
+      "path": "components/ui/empty.tsx",
+      "bytes": 2396,
+      "sha256": "ae95bdcf367a076ae02e7925f14522a148798f72d9651749c6d55497dba584c0"
+    },
+    {
+      "path": "components/ui/field.tsx",
+      "bytes": 6159,
+      "sha256": "ba67d76f017ac059fc86cf8c344e0b2991c4322d3619e125498c19b87f6eefbd"
+    },
+    {
+      "path": "components/ui/form.tsx",
+      "bytes": 3757,
+      "sha256": "315b46bb75ab7d1c6061b5d750aa4bedf6e7a455e15e2d7f9182f053d5972b1e"
+    },
+    {
+      "path": "components/ui/hover-card.tsx",
+      "bytes": 1526,
+      "sha256": "f5d8df42c59370ec14d61bcc54f7d68e9bb7dfa0d6a872b2f7cffc2aafbf23b8"
+    },
+    {
+      "path": "components/ui/input-group.tsx",
+      "bytes": 5065,
+      "sha256": "6afbd58fea4c438e6252dc4568bddc122e84ababead4ad5cee50ace01100c9a0"
+    },
+    {
+      "path": "components/ui/input-otp.tsx",
+      "bytes": 2254,
+      "sha256": "161946daa89f0eda2575b9271c0494e35807c4ffb55598a49f67160c17fec299"
+    },
+    {
+      "path": "components/ui/input.tsx",
+      "bytes": 962,
+      "sha256": "8c4612a7c41319ac5049daa3b34b080f9784b6245c17780eb87c127e58e473db"
+    },
+    {
+      "path": "components/ui/item.tsx",
+      "bytes": 4486,
+      "sha256": "6e2144d6d87142dbbe56d568810bf546318c8aa661447ebb0d76ebbf382cb45f"
+    },
+    {
+      "path": "components/ui/kbd.tsx",
+      "bytes": 862,
+      "sha256": "6088c3a5432338b1719c17e9b5d0e1fa74fd1f66060f248fc88909d33a82cd13"
+    },
+    {
+      "path": "components/ui/label.tsx",
+      "bytes": 606,
+      "sha256": "a476e41f08b9de5bd447de66a33d8bc2ad18f2fa6b96c064778bab4b6f439f4c"
+    },
+    {
+      "path": "components/ui/marker.tsx",
+      "bytes": 1864,
+      "sha256": "3d798763f094b2bb5e7ade2d5cd1b9bab498bc8ca7fd4cfaf4e5835bdedc34a0"
+    },
+    {
+      "path": "components/ui/menubar.tsx",
+      "bytes": 8389,
+      "sha256": "9243af8afcea03703398ccd1c2a8c0a87ad6cbaf2bd272fb609f5b79fe46aebb"
+    },
+    {
+      "path": "components/ui/message-scroller.tsx",
+      "bytes": 3992,
+      "sha256": "bb7660a248e4e9589c3816c7c1c199ea1381a70d2c8476ae895b567a7a4d86cf"
+    },
+    {
+      "path": "components/ui/message.tsx",
+      "bytes": 2232,
+      "sha256": "9d2952bf3b641081f09aa2739535e6bbd1be0a4946789752a2c20d8aaef43185"
+    },
+    {
+      "path": "components/ui/native-select.tsx",
+      "bytes": 1995,
+      "sha256": "007516b111fca8c98a6c40c94ab91bb68cc5b52afce1ed1f5e510c3d86e7347c"
+    },
+    {
+      "path": "components/ui/navigation-menu.tsx",
+      "bytes": 6658,
+      "sha256": "889d358a77de88e9cb6f39ea4895ea4c76eaf01d731b74e44f1c41e97a78a044"
+    },
+    {
+      "path": "components/ui/pagination.tsx",
+      "bytes": 2717,
+      "sha256": "374ad135c3d4ff3ec080a0009cd9745cdd0e12faa89d2b0e86074f11e5127fd1"
+    },
+    {
+      "path": "components/ui/popover.tsx",
+      "bytes": 2357,
+      "sha256": "31c350309ff5d3034e6ecf1b0eda75ba8855bdbf987fc7ad6d71f0ef07c5a447"
+    },
+    {
+      "path": "components/ui/progress.tsx",
+      "bytes": 755,
+      "sha256": "c8c26e8f5f041c3cdf4915347dc1d9c022f9448f149990fadcaf303e952fa57d"
+    },
+    {
+      "path": "components/ui/radio-group.tsx",
+      "bytes": 1460,
+      "sha256": "fe5ce39636d0818c2bf9c4eebddff893d1225fa2c81b5fa4bb8cbb39a8c913ce"
+    },
+    {
+      "path": "components/ui/resizable.tsx",
+      "bytes": 1815,
+      "sha256": "bc63958467aa00557c551bb0d96a5ae4c965c1e1ba2380e595949d933b132f7c"
+    },
+    {
+      "path": "components/ui/scroll-area.tsx",
+      "bytes": 1639,
+      "sha256": "8bd9d986b2844c9a87de825c6de4787b6739b36c3dc9a05ccf3eb107160e4043"
+    },
+    {
+      "path": "components/ui/select.tsx",
+      "bytes": 6353,
+      "sha256": "0b796a108a4eb5ba52d9ad938b7aea36dc56ae66c703a6d0a23dbc24f96daff3"
+    },
+    {
+      "path": "components/ui/separator.tsx",
+      "bytes": 694,
+      "sha256": "6da346505c8629a4668420d2a5ca48891383bbe0b0ceb14163537c671879427e"
+    },
+    {
+      "path": "components/ui/sheet.tsx",
+      "bytes": 4188,
+      "sha256": "63863cf2df8f8973e52b3459ac9bdbf81be1262dbc70eb53d5271ffb03488e16"
+    },
+    {
+      "path": "components/ui/sidebar.tsx",
+      "bytes": 21526,
+      "sha256": "4a8d73e7730a2b1fcecfca31299ed26db65c2307b84197a59c6ec7c01c7ad28e"
+    },
+    {
+      "path": "components/ui/skeleton.tsx",
+      "bytes": 276,
+      "sha256": "ba48dd5be5a6a1378bd4e011028654b5bf419f1e7d20ee4b9f8330c1264e7239"
+    },
+    {
+      "path": "components/ui/slider.tsx",
+      "bytes": 1991,
+      "sha256": "0e37484f4b416e79ac18c655cac961aefacf6e67085cfc2b320ea8af545635a3"
+    },
+    {
+      "path": "components/ui/sonner.tsx",
+      "bytes": 1034,
+      "sha256": "13ccc9b0fe4248e622f83a1d3b2f0566b72b5e04162d7d0c8db8945ecc71b55f"
+    },
+    {
+      "path": "components/ui/spinner.tsx",
+      "bytes": 331,
+      "sha256": "3e6e6e8d37fb4069f8e43e55318f8db06fbc36e6c8be0096da3c9337c1c798b9"
+    },
+    {
+      "path": "components/ui/switch.tsx",
+      "bytes": 1408,
+      "sha256": "386d4d4deb39f34126f9700fe9bf5393d238485dd94018bba9d154dda84c62ae"
+    },
+    {
+      "path": "components/ui/table.tsx",
+      "bytes": 2478,
+      "sha256": "20e5a7f224959c6b75802995706a97e9da171f693d4b6b1b436388fcd9df96f3"
+    },
+    {
+      "path": "components/ui/tabs.tsx",
+      "bytes": 3782,
+      "sha256": "865d0194331b9b2be36723fa79d3575dc83078b4cb941cafee87cb72fc2cff46"
+    },
+    {
+      "path": "components/ui/textarea.tsx",
+      "bytes": 759,
+      "sha256": "253cdeb487c73beaaccdf47fc163e36e7d5b7ae6ddf09a4f64998a109a112979"
+    },
+    {
+      "path": "components/ui/toggle-group.tsx",
+      "bytes": 2308,
+      "sha256": "69f643e889e933f05c1439084480d8646f66a161c7d1cf0730ee926382ade35e"
+    },
+    {
+      "path": "components/ui/toggle.tsx",
+      "bytes": 1565,
+      "sha256": "ba4d0b0a2b2fee75dc36dfc19e32082e721024b919050c97fd5dc70faa924e16"
+    },
+    {
+      "path": "components/ui/tooltip.tsx",
+      "bytes": 1830,
+      "sha256": "a0784eb77831a799fad7991df4f1b666f876201565a80175e1aa68733574a2e4"
+    },
+    {
+      "path": "db/index.ts",
+      "bytes": 423,
+      "sha256": "dc7610b00b918e0ffff1360a63626f16655ced3064b2eaf96095a4101fb14bcd"
+    },
+    {
+      "path": "db/schema.ts",
+      "bytes": 274,
+      "sha256": "93060a5df20edba8dcf49cd83e91a5d3fdea2fca24ec49a17faf74a9e334b631"
+    },
+    {
+      "path": "drizzle.config.ts",
+      "bytes": 148,
+      "sha256": "af081f7384aaeb0082cf422e29f139d137ca2f6a57c69b2c37b9fb1f8479867b"
+    },
+    {
+      "path": "drizzle/0000_graceful_lenny_balinger.sql",
+      "bytes": 161,
+      "sha256": "2ff6af96b6cd135ad522bdfd5fbdb9635150ad8eb2f30598a08aff41e9db2f34"
+    },
+    {
+      "path": "drizzle/meta/0000_snapshot.json",
+      "bytes": 1267,
+      "sha256": "0f6430f466e2afd59fdbabc0cef46fb19f0e0935137690442215a41c446e3c3b"
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "bytes": 213,
+      "sha256": "355e4580a3e6a11a585a4ef85d67db8a83b1acda8c33e9b8849010e77a6ad226"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "bytes": 846,
+      "sha256": "f22a254df7d934bbf9be499d3c969a13abb7f7f64c03f5967d0095cad81dfe06"
+    },
+    {
+      "path": "hooks/use-mobile.ts",
+      "bytes": 565,
+      "sha256": "ad0936f84f1df79d3697bfbff9c18f8ad58431c1cbaf2359c6a853b0fcc9f28b"
+    },
+    {
+      "path": "lib/backend.ts",
+      "bytes": 5730,
+      "sha256": "1a9b40f76c8522ae8806b732fdbc4289f994d0b8e6aa9f7220a67597bb8496a3"
+    },
+    {
+      "path": "lib/connector-context.ts",
+      "bytes": 612,
+      "sha256": "bbddff68689cb0f6926fecd4b8b96f12f2054277c296e97b0df07d4ad5ece24e"
+    },
+    {
+      "path": "lib/connector-contract.mts",
+      "bytes": 5362,
+      "sha256": "e1a7b24a8793af34b595690d9b1300c897c7321c14f215cedf58ad95799d7c3e"
+    },
+    {
+      "path": "lib/connector-errors.mts",
+      "bytes": 2717,
+      "sha256": "a22edf13d6873ae832c4a2a0d579fc666c73ec996ef0722d39172649d38f0871"
+    },
+    {
+      "path": "lib/connector-preview.d.ts",
+      "bytes": 433,
+      "sha256": "abd69a94f7f61f1359063bb557574faae35e8ff5a028cc4c04b9ee248ef52642"
+    },
+    {
+      "path": "lib/connectors.ts",
+      "bytes": 416,
+      "sha256": "1c93d747e384c8e17e3e3dd5361b24412babf5eba2a11d2ae7a75f4e0924112c"
+    },
+    {
+      "path": "lib/default-watches.json",
+      "bytes": 9843,
+      "sha256": "84239fcced7bec328794cd88a1b51b05673739f8bcd9d125aecd0c6ded70e3c4"
+    },
+    {
+      "path": "lib/sample.json",
+      "bytes": 1408,
+      "sha256": "566dbbc17429f5c0995ea4e683a78fbc6e2f40ced5e6d101ac3cf49767136285"
+    },
+    {
+      "path": "lib/utils.ts",
+      "bytes": 177,
+      "sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68"
+    },
+    {
+      "path": "next-env.d.ts",
+      "bytes": 284,
+      "sha256": "217ce9348b523c3e6954fb50bb93364b58781d86742c995f3a5b03ba88b9ba72"
+    },
+    {
+      "path": "next.config.ts",
+      "bytes": 133,
+      "sha256": "614bce25b089c3f19b1e17a6346c74b858034040154c6621e7d35303004767cc"
+    },
+    {
+      "path": "package.json",
+      "bytes": 2142,
+      "sha256": "ecd5d88d26500e27ffb4d99b754e999c698eb4211c6fb57045b9af188f59df4b"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "bytes": 345021,
+      "sha256": "095ba6f301ba3997da2c251dfc4b805c220624bdf0921d905eaceee0d1fb29c9"
+    },
+    {
+      "path": "pnpm-workspace.yaml",
+      "bytes": 736,
+      "sha256": "4a69dc93a75ff4a33f54c2853d5317c8e7374faab592f3472b5164257bff8066"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "bytes": 94,
+      "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+    },
+    {
+      "path": "public/assets/FONT-LICENSE.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-01.png",
+      "bytes": 322164,
+      "sha256": "ce480aaeaa5848e3ee6f4bde3da5ab2581ae1febb92c06c3adee15529618b6fb"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-02.png",
+      "bytes": 444230,
+      "sha256": "c06a9b4c2100f11a97e40d96407dffd490374e32071d29a3ccbb516bfa05f826"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-03.png",
+      "bytes": 440298,
+      "sha256": "586c6648f97de1893e6f08a0862b9e72eb61b6c4767184d0aaff38fac01e13b1"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-04.png",
+      "bytes": 283002,
+      "sha256": "19c33a9e89af453f630efcee77e02bf30aea49c3c686b3dacff85412db896643"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-05.png",
+      "bytes": 396693,
+      "sha256": "4b1fa0de5b5729c74e3c4417de135e2c75915a51f17abdeb73eef81da3638b05"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-06.png",
+      "bytes": 239395,
+      "sha256": "314f39daa4aa4dbc4e3ab93dca89b6ac9a852e97d9d3887dd8ef880b00384bae"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-07.png",
+      "bytes": 300179,
+      "sha256": "6b19aa8764e1be1555c76e6b0bc323b7f3f9a2b969d7792c83c9d88825bcda3a"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-08.png",
+      "bytes": 265399,
+      "sha256": "44e743b3aa629bc8f0a412104b6d7930757eacd30abd16b8b9824ebd2d6fd073"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-09.png",
+      "bytes": 301979,
+      "sha256": "39ae104511e7081cef6796302f91489e3167b421c8de7646bdd77cf92b6b82df"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-10.png",
+      "bytes": 511458,
+      "sha256": "bbcda76551b92bd9f3603378a97217bc234cf47b3b1cb37f7fdadb12b62f5c64"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-11.png",
+      "bytes": 257292,
+      "sha256": "5357b290d9671dd9d9215e9ea26c258f979cd2773474aa9b089c178e1b14a5b2"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-12.png",
+      "bytes": 284594,
+      "sha256": "15373d53d71a22472c754b75170b6f7b9587e58b596dd62aaf1500f2aaef43a9"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-13.png",
+      "bytes": 270354,
+      "sha256": "3aca5602a26d168c16a492b992542162020cb5d11da65fd02b56e6da1084bf9d"
+    },
+    {
+      "path": "public/assets/collection-logos/logo-15.png",
+      "bytes": 243182,
+      "sha256": "1c9b039b4bd8cb16be1b5664d45a2a06def80de00a56d89f2ed88c5fe4fa0068"
+    },
+    {
+      "path": "public/assets/cormorant-garamond-500.ttf",
+      "bytes": 290496,
+      "sha256": "1724047c8988ca5155bff667bc48fa52e97d57aabc6b42eebbf986f21a4be20b"
+    },
+    {
+      "path": "public/assets/default-hublot/hublot-blue.jpg",
+      "bytes": 552581,
+      "sha256": "9bfb3a56deca9ab3a07798b913228b334c7e06a04dca24cfe7639ab473316d82"
+    },
+    {
+      "path": "public/assets/default-hublot/watch-045638.jpg",
+      "bytes": 598512,
+      "sha256": "82bbc5f7cdb1811b8d2501ed0d14fce8abd516cb7f100dfbd784d390150b3ec9"
+    },
+    {
+      "path": "public/assets/default-hublot/watch-045658.jpg",
+      "bytes": 611888,
+      "sha256": "d5ddb7d0b6ec607246b237d0f8bb58d87dd236012f86d7cc071659df3e5ebefc"
+    },
+    {
+      "path": "public/assets/default-hublot/watch-045922.jpg",
+      "bytes": 521347,
+      "sha256": "f597ac5476c3afd3b73d7c4614cb3149ad37c879ec537a9dfd5eb02e07f2aaca"
+    },
+    {
+      "path": "public/assets/default-hublot/watch-051819.jpg",
+      "bytes": 633195,
+      "sha256": "964a269992e6a029866d07d3cc4de43d6ede8ddf98d0b220aaeaa39c2e4b2d52"
+    },
+    {
+      "path": "public/assets/fb2tv-original.jpg",
+      "bytes": 75453,
+      "sha256": "584e183208e1e617180674f5941d9f7e4858fe2de134dec0060e01bc22601301"
+    },
+    {
+      "path": "public/assets/noto-ko.woff",
+      "bytes": 1380656,
+      "sha256": "b8810158168099340921208a41860e313c32aadc2cdd4330477f527120666cce"
+    },
+    {
+      "path": "public/brand-logos.json",
+      "bytes": 15676,
+      "sha256": "ad9aa30340810eeafe4e3da8130c6a9866db776ab9df850f58768b18322d1750"
+    },
+    {
+      "path": "public/brand-logos/a--lange---söhne-logo.png",
+      "bytes": 52294,
+      "sha256": "62025a580bb3af2530de34f8891c489e4608bc018c0c76ba276071077e40f6db"
+    },
+    {
+      "path": "public/brand-logos/agelocer-user-full.png",
+      "bytes": 26967,
+      "sha256": "18c708d83f9acd2c4a77f67480fd3952bac42a4cb32db49e9889c4731a2c0130"
+    },
+    {
+      "path": "public/brand-logos/alexander-shorokhoff-user-symbol.png",
+      "bytes": 3298,
+      "sha256": "a6964cf753168cc5886caf5cba67d03f3c6c084dd2c888b3fe7e052a79bdba2e"
+    },
+    {
+      "path": "public/brand-logos/alexander-shorokhoff-user-wordmark.png",
+      "bytes": 12042,
+      "sha256": "46fc0e71eff8052aa6c2496ab814644e2456e69aa784c7a7580fd5b24088861a"
+    },
+    {
+      "path": "public/brand-logos/ap-symbol.png",
+      "bytes": 3013,
+      "sha256": "cf52fdb3d685ee95490a1bb476bc8606925b0e9b22fb411698b4f1927b5ff327"
+    },
+    {
+      "path": "public/brand-logos/ap-wordmark.png",
+      "bytes": 26239,
+      "sha256": "8810e33af8386045fb90207489323876679e5e09ba597fdd4e6b5e809a3dbe8b"
+    },
+    {
+      "path": "public/brand-logos/armin-strom-logo.png",
+      "bytes": 24703,
+      "sha256": "1dd6aa34871d8148e31a1eeb5c17fabe9ca8bb075571994a6015d77e255dce16"
+    },
+    {
+      "path": "public/brand-logos/auguste-reymond-logo.png",
+      "bytes": 36422,
+      "sha256": "d74c29a6da048d844ecdb6f0e5ed99df4b32c7ce53bb0c9b7a2a2601afd2bd6a"
+    },
+    {
+      "path": "public/brand-logos/auguste-reymond-name.png",
+      "bytes": 14983,
+      "sha256": "35d61a2ef3746d70290c5152f829369e94dba8817f540e266fc03ad1847dd148"
+    },
+    {
+      "path": "public/brand-logos/av86-dual-symbol.png",
+      "bytes": 12639,
+      "sha256": "66ff577a830ee4d5dd78c7b3e473ded38d75e34d2e070db352eb8889348b566f"
+    },
+    {
+      "path": "public/brand-logos/av86-dual-wordmark.png",
+      "bytes": 25232,
+      "sha256": "0ada4e547751c2db44092beebb4364c38ebf41f42147f93e21af5842d991d94c"
+    },
+    {
+      "path": "public/brand-logos/baltic-logo.png",
+      "bytes": 21156,
+      "sha256": "2bc112e44120dff3a1c09166ac818b7731bdd3488e069c9ca5210cf82cb34974"
+    },
+    {
+      "path": "public/brand-logos/behrens-logo.png",
+      "bytes": 64114,
+      "sha256": "318ac4737d9565da5301286248b6d98488c735d6bd71e5d6404e1174421f3115"
+    },
+    {
+      "path": "public/brand-logos/behrens-name.png",
+      "bytes": 7096,
+      "sha256": "268f20311dc789c6af611d4ec2ec008a3a81eafaed066f31d8839f1054099442"
+    },
+    {
+      "path": "public/brand-logos/bell---ross-logo.png",
+      "bytes": 48466,
+      "sha256": "048b2899086aace4979a1aac9aa66a8c7ccdbc2bde42889a946a39e146b59f2c"
+    },
+    {
+      "path": "public/brand-logos/benlywatch-logo.png",
+      "bytes": 21967,
+      "sha256": "4d52fd77500ddcd3baa5c675444c90e35f257b44d3e574220a8de603ab0d7f68"
+    },
+    {
+      "path": "public/brand-logos/bonest-gatti-logo.png",
+      "bytes": 146949,
+      "sha256": "2583d0177d710852c10a4d50f7b28fb019d68608ce45981a1a1a7970d8d1d9e9"
+    },
+    {
+      "path": "public/brand-logos/breguet-complete-symbol-20261006.png",
+      "bytes": 54045,
+      "sha256": "311d07397848f120fb711c545b7ac8e21dfccaaccc2ca72f82dbccc6317905d6"
+    },
+    {
+      "path": "public/brand-logos/breguet-complete-wordmark-20261006.png",
+      "bytes": 14741,
+      "sha256": "716c158b5ca409b8908bae80387186565bcbde0f32abb3746d33e7dae431f6eb"
+    },
+    {
+      "path": "public/brand-logos/breitling-dual-symbol.png",
+      "bytes": 9026,
+      "sha256": "0b96444370de742c5f738481c2efb22c95d441e0b317b92ed5bf977dc5e9c7db"
+    },
+    {
+      "path": "public/brand-logos/breitling-dual-wordmark.png",
+      "bytes": 4772,
+      "sha256": "38286e91202d1bf427ee6dbe6b0cdbd40b26a98df8a989ce81abc1bf0a6cd5ae"
+    },
+    {
+      "path": "public/brand-logos/cartier-logo.png",
+      "bytes": 55814,
+      "sha256": "4f8f8e85df48a089e4920517ba2f238db24ac6fd385cc883a5717610f413771e"
+    },
+    {
+      "path": "public/brand-logos/chanel-dual-symbol.png",
+      "bytes": 9957,
+      "sha256": "707557aee932b700f0ff0b1fc397d3d9264b0c967b84cb74f175f0b91d32db1f"
+    },
+    {
+      "path": "public/brand-logos/chanel-dual-wordmark.png",
+      "bytes": 5896,
+      "sha256": "56d745aaba8b7bb24c68a9f20aba47080e29decc16ae9a3427a7750187efd047"
+    },
+    {
+      "path": "public/brand-logos/chopard-logo.png",
+      "bytes": 71442,
+      "sha256": "93d954ba3bf3595f2e4035d4ec6bd79a59863014c649544ad2795ab48d07cb7e"
+    },
+    {
+      "path": "public/brand-logos/christopher-ward-dual-symbol.png",
+      "bytes": 725,
+      "sha256": "aff8ecd294aab91f707fd15bdc39c3c3de90dcf938138de6a05d421286c9e0ce"
+    },
+    {
+      "path": "public/brand-logos/christopher-ward-dual-wordmark.png",
+      "bytes": 6190,
+      "sha256": "9a41d966431113a4c5ba36138397e245ba18f91db63e0d983f115d20de45a6b9"
+    },
+    {
+      "path": "public/brand-logos/chronoswiss-logo.png",
+      "bytes": 149736,
+      "sha256": "2dcb2564318b287f90c8d81b547bb3dd89f853c0a9c404ca22230fe20c53898b"
+    },
+    {
+      "path": "public/brand-logos/ciga-design-logo.png",
+      "bytes": 118318,
+      "sha256": "11926fa6e045d7d465eeb5af122de19d193b2d0fc938df0a17d33f60186bc46d"
+    },
+    {
+      "path": "public/brand-logos/cronusart-logo.png",
+      "bytes": 45834,
+      "sha256": "b966706cf58db08bce5ad0bc4b071f69ebd452fa68ebeb449020cfaf37f565aa"
+    },
+    {
+      "path": "public/brand-logos/cvstos-logo.png",
+      "bytes": 41414,
+      "sha256": "ab6e0dced1a14ad4a1ee9376f150e126a7268751a701647e76a9ef953dfc9080"
+    },
+    {
+      "path": "public/brand-logos/czapek-user-full.png",
+      "bytes": 6322,
+      "sha256": "c010314378cb594a16829619d6de79d1b91662680f3a7100ab57dcaafbcf4950"
+    },
+    {
+      "path": "public/brand-logos/d1-milano-logo.png",
+      "bytes": 19223,
+      "sha256": "e252a55df7baee0e3f89de5fa13b41ee85d7fbf654eecb2145e2f21b45d0de47"
+    },
+    {
+      "path": "public/brand-logos/daniel-roth-logo.png",
+      "bytes": 17150,
+      "sha256": "520c965a9bfb07c23a4ddd705fa6776497a0a3311e699d168c4c67849834fb8f"
+    },
+    {
+      "path": "public/brand-logos/de-bethune-symbol-supplied.svg",
+      "bytes": 14200,
+      "sha256": "7bbe51d4cc153907b5d8fba63815b7e0112d3b429eb28d53762afe24cb788cc0"
+    },
+    {
+      "path": "public/brand-logos/de-bethune-wordmark-supplied.svg",
+      "bytes": 16320,
+      "sha256": "9baa1eeb307fa279fe3a3883c3766965dfe942509a0c46ae9b73fa63a3d8bf88"
+    },
+    {
+      "path": "public/brand-logos/favre-leuba-user-symbol.png",
+      "bytes": 1690,
+      "sha256": "7de3f291205e6e515a8745b9cdf5ba3bb4b125f0c8cdcda182737aa3d1dd150c"
+    },
+    {
+      "path": "public/brand-logos/favre-leuba-user-wordmark.png",
+      "bytes": 3250,
+      "sha256": "3e4f385c4be820244734ad0ee71a8d5b63e456ba071b3140552bf7af44b07f94"
+    },
+    {
+      "path": "public/brand-logos/fb-symbol-supplied.svg",
+      "bytes": 14843,
+      "sha256": "944578bf10d5cc239b8ad5b42edfe180da3ea377b842eab762a364fc9196f4ed"
+    },
+    {
+      "path": "public/brand-logos/fb-wordmark-supplied.svg",
+      "bytes": 9250,
+      "sha256": "f41171b034af711bdc78d8bbb1000efa504b6d9829248a857da2edb1412d6f19"
+    },
+    {
+      "path": "public/brand-logos/ferdinand-berthoud.svg",
+      "bytes": 9434,
+      "sha256": "340d36bae79513477a5579bd56272481f7e6172c2bbedb3a4756a486ac81f0a1"
+    },
+    {
+      "path": "public/brand-logos/fob-paris-logo.png",
+      "bytes": 53023,
+      "sha256": "71de0545461062eacfb425d54a58887b81a7a1acbc0b2dd360843d8a7be97b26"
+    },
+    {
+      "path": "public/brand-logos/formex-dual-symbol.png",
+      "bytes": 41734,
+      "sha256": "e16b241e569f246a4f77202e61dd46788f67b8a9f2c0cae2a8a182e7f753b738"
+    },
+    {
+      "path": "public/brand-logos/formex-dual-wordmark.png",
+      "bytes": 51109,
+      "sha256": "2cdf3c4f1c752792c6b5d7d3709c383e26792a22ff30403c1d05f6b054dd85cb"
+    },
+    {
+      "path": "public/brand-logos/furlan-marri-logo.png",
+      "bytes": 16627,
+      "sha256": "dc5a543bca18b30d25260cd21bc4be9e6dde23fcfdb326119110531940aa07f5"
+    },
+    {
+      "path": "public/brand-logos/girard-perregaux-logo.png",
+      "bytes": 19601,
+      "sha256": "f5989bca6c1bc252ec6236274dec275b3d69a3ca8233e7890dd27f4adebfca26"
+    },
+    {
+      "path": "public/brand-logos/girard-perregaux-name.png",
+      "bytes": 11665,
+      "sha256": "d4794e150e9a117be3818a8981e88b467fa578c65b4df694fcee82b79e4b81f0"
+    },
+    {
+      "path": "public/brand-logos/glashütte-original-logo.png",
+      "bytes": 142129,
+      "sha256": "e9d2743ca2a4e879db21d28cefac765c7a57c64754d58f5cf106b54afd4d9d76"
+    },
+    {
+      "path": "public/brand-logos/gorilla-logo.png",
+      "bytes": 110208,
+      "sha256": "8935e1db01e99db26f80c6a15c4cac11e1f18fe329b94dee1f5e3b70a0889436"
+    },
+    {
+      "path": "public/brand-logos/grand-seiko-dual-symbol.png",
+      "bytes": 13127,
+      "sha256": "994cd96d457462ff891129ef36240a83e234d56ee4ddf6d9ab2881019d346678"
+    },
+    {
+      "path": "public/brand-logos/grand-seiko-dual-wordmark.png",
+      "bytes": 27024,
+      "sha256": "20096e816ca1fb2e2df926337e717a0624c0ea336317386bad375c81bab9c13e"
+    },
+    {
+      "path": "public/brand-logos/h-moser-and-cie-dual-symbol.png",
+      "bytes": 16004,
+      "sha256": "1b896b0c2c2f42a8b288976fdc01fc9772a7d207b10e8c2a2d5de7955e6f9b2c"
+    },
+    {
+      "path": "public/brand-logos/h-moser-and-cie-dual-wordmark.png",
+      "bytes": 62376,
+      "sha256": "c6fa0e9fba15b6a672d37c83cdf59c38dbdf9246eb33e778d64de3ab6df7b143"
+    },
+    {
+      "path": "public/brand-logos/hamilton-dual-symbol.png",
+      "bytes": 879,
+      "sha256": "8ede73707f7844c341637201b64abbd541e76a8e9b371e236a8db64a50cd2899"
+    },
+    {
+      "path": "public/brand-logos/hamilton-dual-wordmark.png",
+      "bytes": 2875,
+      "sha256": "43aad7cb9f33a4ffd5f9d70f767569c613c261e39ff82cd88f63b01aa6eac17b"
+    },
+    {
+      "path": "public/brand-logos/hublot-dual-symbol.png",
+      "bytes": 1764,
+      "sha256": "5016fc5aeeec61118d00966c6d6104608e28a4f1869c616e7ab8e58fef0295d5"
+    },
+    {
+      "path": "public/brand-logos/hublot-dual-wordmark.png",
+      "bytes": 4806,
+      "sha256": "6797466a44de1b51568d4ee35cabd83abe17e4acdaa073158c1c5ca41fa89c2a"
+    },
+    {
+      "path": "public/brand-logos/ikepod-logo.png",
+      "bytes": 143327,
+      "sha256": "2c898a24e86a520bd789294c82a69a54a605a7dd94d8b548b0276b2d8a719c2e"
+    },
+    {
+      "path": "public/brand-logos/isotope-logo.png",
+      "bytes": 27767,
+      "sha256": "37f3e0520d5c93722ef51565475496f0aadd98d652bfe9457e9986f7e7edfcb6"
+    },
+    {
+      "path": "public/brand-logos/isotope-name.png",
+      "bytes": 6260,
+      "sha256": "b9e3bc031dc1e34cae6c7c09b207bbe600e40264defe495e89af34c70892a84a"
+    },
+    {
+      "path": "public/brand-logos/iwc-logo.png",
+      "bytes": 44757,
+      "sha256": "8e23c1b89a94da8200a882559a74414f1f641b4a01a55f047dbd0c43b066e47e"
+    },
+    {
+      "path": "public/brand-logos/jlc-symbol-supplied-20261009.svg",
+      "bytes": 22769,
+      "sha256": "e7cc586aa211b18375cb9e5930d4d66829f4c3b3b58573443571461240476e9a"
+    },
+    {
+      "path": "public/brand-logos/jlc-symbol.png",
+      "bytes": 2827,
+      "sha256": "590ee2c1a14ae7a89eabbaad7412ca6cf3601b30411fba7b4dc61464d3119528"
+    },
+    {
+      "path": "public/brand-logos/jlc-wordmark.png",
+      "bytes": 8664,
+      "sha256": "a0e0b980132af4645ef79e716b64f79d92351cad97174c8620ec11858891031e"
+    },
+    {
+      "path": "public/brand-logos/konstantin-chaykin-logo.png",
+      "bytes": 17301,
+      "sha256": "e731089f43af106f2c89825ddf31adc396ab82d6a559c89b6e9a9994d15e0bd2"
+    },
+    {
+      "path": "public/brand-logos/konstantin-chaykin-name.png",
+      "bytes": 12895,
+      "sha256": "26e09b45e8f45c2df990755a706698be5a90a6ee2343751556ae0e87fc0078a6"
+    },
+    {
+      "path": "public/brand-logos/kudoke-logo.png",
+      "bytes": 155154,
+      "sha256": "68a76232e4c79406ee1da021f2b0aa4e3d9dfa28559821772c8c07215a2bdb28"
+    },
+    {
+      "path": "public/brand-logos/kuoe-kyoto-logo.png",
+      "bytes": 173421,
+      "sha256": "19f3f219f866df9ac2e7e7055b0f29ead28db5abc09af70bd3fe8252fe5bb797"
+    },
+    {
+      "path": "public/brand-logos/l-eternity-user-symbol.png",
+      "bytes": 21117,
+      "sha256": "4ce81ee9c19d852679aedc5a04224ae31cc5f9bf00dd17c09350f550268bfa9b"
+    },
+    {
+      "path": "public/brand-logos/l-eternity-user-wordmark.png",
+      "bytes": 37942,
+      "sha256": "cc8e2840d4fd3052f8f6fde3e7691f646d31fb31e470f2551c853cb4ebeeb5f3"
+    },
+    {
+      "path": "public/brand-logos/laurent-ferrier-logo.png",
+      "bytes": 88366,
+      "sha256": "1ee0d69009b3f2a9ecf1d5121ba2b2be7d87a63c163cc830ed808352369458c4"
+    },
+    {
+      "path": "public/brand-logos/lobinni-logo.png",
+      "bytes": 64247,
+      "sha256": "209db1e04ec83679064cf4b68b942ea075084f7efbbed9e2a2ad45ae438e7878"
+    },
+    {
+      "path": "public/brand-logos/lobinni-name.png",
+      "bytes": 5459,
+      "sha256": "59e42d110c153abd419812b7043fc2c1263c423d9c473cd72e6e262d13525f49"
+    },
+    {
+      "path": "public/brand-logos/longines-logo.png",
+      "bytes": 12650,
+      "sha256": "6184997aeb8da19c8a420ca80bc9c2b51f73230bdb2ef099ff6a8f277ac5b058"
+    },
+    {
+      "path": "public/brand-logos/longines-name.png",
+      "bytes": 7965,
+      "sha256": "9306a8ae0362e6e89056c48df25a5fcf8ad2c1e8291ca2e3a195d45b30a6a657"
+    },
+    {
+      "path": "public/brand-logos/louis-moinet-dual-symbol.png",
+      "bytes": 14936,
+      "sha256": "7800a5bda516ba30cbd92171e82b39c083791c2fce6f4958ec79e6bc0173ece6"
+    },
+    {
+      "path": "public/brand-logos/louis-moinet-dual-wordmark.png",
+      "bytes": 37885,
+      "sha256": "738ae084daa702a2bfc62e88f90ef46741d474d3456880ce98e04470d1b63976"
+    },
+    {
+      "path": "public/brand-logos/louis-vuitton-dual-symbol.png",
+      "bytes": 29296,
+      "sha256": "cd42232e5dba7310d715ec9bb11d2c072c4ace777fa5984c47d50e6c61280335"
+    },
+    {
+      "path": "public/brand-logos/louis-vuitton-user-20261006.png",
+      "bytes": 7022,
+      "sha256": "bed1f4365fca6034c996e5526e9d60c9f1caa72011afe64c33499d59531d9f11"
+    },
+    {
+      "path": "public/brand-logos/mark-fairwhale-logo.png",
+      "bytes": 67400,
+      "sha256": "be64f54e75248c7b51d543a5e23a525bfe6eea3b9b8ed4363541b19f1a6657d6"
+    },
+    {
+      "path": "public/brand-logos/maurice-lacroix-dual-symbol.png",
+      "bytes": 3570,
+      "sha256": "0cf6fa81479ace95c096acfdaf1218d191e25124d99d6d0977ec255ce3792da3"
+    },
+    {
+      "path": "public/brand-logos/maurice-lacroix-dual-wordmark.png",
+      "bytes": 22790,
+      "sha256": "46edaddca392e9f9083551e7170a3029ab9f9a82fd4519a79ab8713c8b9cd22d"
+    },
+    {
+      "path": "public/brand-logos/merkur-user-full.png",
+      "bytes": 1474,
+      "sha256": "ec517bb702d7cdc4c94d5f1315bfe9c461f4af7805ad8048dd2c441180653010"
+    },
+    {
+      "path": "public/brand-logos/mido-logo.png",
+      "bytes": 43728,
+      "sha256": "4f559ad80674c1eec4cf4e05c68fc88f9fc222cc084102689a03ebad55e6dd75"
+    },
+    {
+      "path": "public/brand-logos/minber-logo.png",
+      "bytes": 27341,
+      "sha256": "c1205ee2f4e6e36eb470ac4257975d1bcb2f5c7c467bd46dd39a84a8a9254996"
+    },
+    {
+      "path": "public/brand-logos/minber-name.png",
+      "bytes": 6462,
+      "sha256": "40ccb360851eefcc149fa1ece321c6b4172a061a7ee66358470db4b15e07970f"
+    },
+    {
+      "path": "public/brand-logos/nomos-glashütte-logo.png",
+      "bytes": 39388,
+      "sha256": "6c6cc1d7924177b56391b76e7ed9dd8ba45dbf33098f8921954b3a88420d9ed0"
+    },
+    {
+      "path": "public/brand-logos/oblvlo-logo.png",
+      "bytes": 16247,
+      "sha256": "0ec197ec386860766feaab4ed2ec1837eb5a4c09fc304f5d91c47da4a31a0df7"
+    },
+    {
+      "path": "public/brand-logos/oblvlo-name.png",
+      "bytes": 5292,
+      "sha256": "cb0ef157910a5705908478c85dcbbe034807e31d7a0aaa1d00acc9b74fc44f38"
+    },
+    {
+      "path": "public/brand-logos/olto-8-logo.png",
+      "bytes": 108666,
+      "sha256": "baabb7de242c8ec0f026cd46202a33ad44226df75d9381d06b24a9f15a3b7b4e"
+    },
+    {
+      "path": "public/brand-logos/omega-dual-symbol.png",
+      "bytes": 4744,
+      "sha256": "6eeabc3e170e1950cedf2a6970a47a763e5940b30ea4237e460ba59a10dfa8d8"
+    },
+    {
+      "path": "public/brand-logos/omega-dual-wordmark.png",
+      "bytes": 13197,
+      "sha256": "30323d4a69db352196652285be618e91ec3fb14cd6a2df7f2d4392299b21fcee"
+    },
+    {
+      "path": "public/brand-logos/orient-star-dual-symbol.png",
+      "bytes": 3667,
+      "sha256": "bd6471beddd39ebf0f01a427513ffd5d45d8d48988e3c376f2f47831c80d72a9"
+    },
+    {
+      "path": "public/brand-logos/orient-star-dual-wordmark.png",
+      "bytes": 6412,
+      "sha256": "f20c0040aaf84ef7ff175fdec7d342a7eabd23f7afd9965c532ccc5d1a824029"
+    },
+    {
+      "path": "public/brand-logos/oris-logo.png",
+      "bytes": 51752,
+      "sha256": "b57b13712a5dcba8630c90a3353c6243a210e3deb35b9ab151d36f5725b6a5ab"
+    },
+    {
+      "path": "public/brand-logos/otsuka-lotec-logo.png",
+      "bytes": 18361,
+      "sha256": "78493696ef70b898a11c31cf41594a294bbf84d9a7c7d0ef00e8b013a916926e"
+    },
+    {
+      "path": "public/brand-logos/pagani-design-logo.png",
+      "bytes": 10053,
+      "sha256": "3532556937a7c5268ee038f84c38b92cc44854d42c7ce0b3018efb8617079259"
+    },
+    {
+      "path": "public/brand-logos/pagani-design-name.png",
+      "bytes": 9962,
+      "sha256": "fe839c6b54b35a03fef1174980f20fd9ee195b672bbf9b12110fd91194e2b384"
+    },
+    {
+      "path": "public/brand-logos/panerai-logo.png",
+      "bytes": 64134,
+      "sha256": "a55fbbc0a66459adc9f87916e22582633a0f0f623a6e2d40b655f903d9c49afe"
+    },
+    {
+      "path": "public/brand-logos/parmigiani-fleurier-logo.png",
+      "bytes": 30097,
+      "sha256": "7ecd97e9667dffefb66bf9752fe42eaed4bee33fc78972f145c5433514c94bfd"
+    },
+    {
+      "path": "public/brand-logos/parmigiani-fleurier-name.png",
+      "bytes": 12353,
+      "sha256": "263b47514b995babcea6ecf838b11bf3bfcaea29bfc970e08ebdece074cf1d40"
+    },
+    {
+      "path": "public/brand-logos/patek-philippe-logo.png",
+      "bytes": 66312,
+      "sha256": "d9a4213cef3e8f8e0b033c0f9aa545d2b0f7de34d20acccd74ee4a74a3d2d59f"
+    },
+    {
+      "path": "public/brand-logos/patek-philippe-name.png",
+      "bytes": 7656,
+      "sha256": "999b67372b17be0bfe102cbd7fe5ee953ae45b04c13d07f89e76329cfa0f0a13"
+    },
+    {
+      "path": "public/brand-logos/peacock-logo.png",
+      "bytes": 59786,
+      "sha256": "ae7ad4528069d100bf9901071f2f4d33618a997da68b3a68979e8e783edd5d63"
+    },
+    {
+      "path": "public/brand-logos/peacock-name.png",
+      "bytes": 7861,
+      "sha256": "7cd9e9543a2616fa11453e8bc4498ca0444f156190da85bee0c3ebd3ad2147ea"
+    },
+    {
+      "path": "public/brand-logos/pole-epoch-user-full.png",
+      "bytes": 9151,
+      "sha256": "1d94f074f70839458710913a5c25db369644acbee4dcafdf5302f49076ac8fc3"
+    },
+    {
+      "path": "public/brand-logos/rado-logo.png",
+      "bytes": 68315,
+      "sha256": "1fcefba9b8856b152059de385bafb85d2a884355bc175063d957924be03cd9d1"
+    },
+    {
+      "path": "public/brand-logos/rec-user-symbol.png",
+      "bytes": 12102,
+      "sha256": "3929f0efce0829e456a81d2a089464b590aad02907354e74a349f13ee0782f92"
+    },
+    {
+      "path": "public/brand-logos/rec-user-wordmark.png",
+      "bytes": 3534,
+      "sha256": "da6c61b9a12dddb3aff62edb38d2a9b50a765503150b3bb39b3517a42762cdbb"
+    },
+    {
+      "path": "public/brand-logos/rexhep-rexhepi-wordmark-supplied.svg",
+      "bytes": 2969,
+      "sha256": "c0e472b8cd1d96067b441750e40c54e8d0d721a92217dd254a9dfa61b8233c61"
+    },
+    {
+      "path": "public/brand-logos/rolex-dual-symbol.png",
+      "bytes": 5409,
+      "sha256": "7ab8e21fb628c7342a4d44155c8beca1e2463751b3d81d4ca990115613c53033"
+    },
+    {
+      "path": "public/brand-logos/rolex-dual-wordmark.png",
+      "bytes": 6914,
+      "sha256": "485677558803667caa419218d588e86173d09ec3b4d004f7bd81c17915b65960"
+    },
+    {
+      "path": "public/brand-logos/san-martin-logo.png",
+      "bytes": 147029,
+      "sha256": "1a86aef6e4bd7ff8169bf769c8a11a2aac7bdeff4681a0f741ce582e2c98e045"
+    },
+    {
+      "path": "public/brand-logos/seiko-logo.png",
+      "bytes": 39556,
+      "sha256": "0106eb1b15173676517558938ab82b608eeccf58321c4fba89c2208df4d5f0b7"
+    },
+    {
+      "path": "public/brand-logos/shanghai-logo.png",
+      "bytes": 89647,
+      "sha256": "772c89d1ea249c90c4370e2ee2d101e7a9b69b7e5fa2ff2052629be8ce66e293"
+    },
+    {
+      "path": "public/brand-logos/shanghai-name.png",
+      "bytes": 7234,
+      "sha256": "c6e32fceed9975e474206ee5eef3a6f4fa5c142943e90412c9c3413b76f30070"
+    },
+    {
+      "path": "public/brand-logos/speake-marin-dual-symbol.png",
+      "bytes": 4662,
+      "sha256": "46224cfd0acf50018b18915b6cc05ebf331d8bb5703b4efaa9b9ab3f715d820d"
+    },
+    {
+      "path": "public/brand-logos/speake-marin-dual-wordmark.png",
+      "bytes": 4995,
+      "sha256": "02e59c28617e4ac9e030b659d08f07fd2b965c3e7494f29d1cdffbc32855c687"
+    },
+    {
+      "path": "public/brand-logos/sturmanskie-dual-symbol.png",
+      "bytes": 86219,
+      "sha256": "443c8538b2e5a490d54d9cf6832a98a7704fa5ba3e0d6b0bf8bca071319dcc25"
+    },
+    {
+      "path": "public/brand-logos/sturmanskie-dual-wordmark.png",
+      "bytes": 11713,
+      "sha256": "5e5d4521406722b8a0a740f3704bb33dff166126ef67334ebda4d514c0396982"
+    },
+    {
+      "path": "public/brand-logos/tacs-logo.png",
+      "bytes": 38854,
+      "sha256": "64e486b76fa0649c5ae682b4053f79204d09bd69c9c480dfe33c7f5f2e26f701"
+    },
+    {
+      "path": "public/brand-logos/tag-heuer-dual-symbol.png",
+      "bytes": 30978,
+      "sha256": "07bd99649ea5438a4eb7e09d65af0cb88feead2b580f7812de2e7a2852726681"
+    },
+    {
+      "path": "public/brand-logos/tag-heuer-user-20261006.png",
+      "bytes": 9059,
+      "sha256": "462b80680cbb7f6fadfaa3be81662350a93f25f08959eb0819a703e616aeeb18"
+    },
+    {
+      "path": "public/brand-logos/timex-logo.png",
+      "bytes": 21108,
+      "sha256": "7b89012a2ec3a6df03a5c2dfd39b1a5e11ab36715feb6bf3cbe3456b9e037013"
+    },
+    {
+      "path": "public/brand-logos/urwerk-symbol-supplied.svg",
+      "bytes": 5335,
+      "sha256": "65802db483d7b13924e7b7aa75448560b2b9074ba601949d246a4b15280cab72"
+    },
+    {
+      "path": "public/brand-logos/urwerk-wordmark-supplied.svg",
+      "bytes": 16856,
+      "sha256": "19c533973efc3566914eae2214248e8b2f33fa1be29ea84985813f620f0ffd16"
+    },
+    {
+      "path": "public/brand-logos/vc-symbol.png",
+      "bytes": 2711,
+      "sha256": "13bcf04c34ae8c6a245899a7613941f2045801b8dae66a43e3c727f3d527f0ec"
+    },
+    {
+      "path": "public/brand-logos/vc-wordmark.png",
+      "bytes": 16545,
+      "sha256": "ca81b22ae43772490d181fc8127a130f5473a3e89855d6c29dbea9c4cc0cf171"
+    },
+    {
+      "path": "public/brand-logos/venezianico-logo.png",
+      "bytes": 39842,
+      "sha256": "30dbeed7941ef87caff2e912c8941ba82c5b67fb49273d5a79878471baa01388"
+    },
+    {
+      "path": "public/brand-logos/venezianico-name.png",
+      "bytes": 10069,
+      "sha256": "0a018fa663761632ecde039bb420d9dbe57269fcb4613ebdd06c14f5a4adb0a5"
+    },
+    {
+      "path": "public/brand-logos/vicenterra-user-symbol.png",
+      "bytes": 3571,
+      "sha256": "c46a387f5102396b64145b795d50fdce7f944a3e067589c2ffc6d78457746bff"
+    },
+    {
+      "path": "public/brand-logos/vicenterra-user-wordmark.png",
+      "bytes": 5046,
+      "sha256": "188613b87cf56d67e39b5b1587c1789f3edd605825ad3d24332f4c1002e326e7"
+    },
+    {
+      "path": "public/brand-logos/waldhoff-logo.png",
+      "bytes": 121001,
+      "sha256": "620ff46c456e6d59b2caa09e01f866c75a7138c2338636461f03d6b0f60f68a0"
+    },
+    {
+      "path": "public/brand-logos/waldhoff-name.png",
+      "bytes": 8430,
+      "sha256": "3ce089dff54fee0203f439bf3a3ff6eca7a741e5dca1e3ab4f6a8cd5e4980022"
+    },
+    {
+      "path": "public/brand-logos/yema-dual-symbol.png",
+      "bytes": 14994,
+      "sha256": "c5f247c338e63bf1ea45367cfb89f2a043259a5a7af302f89dcf38c99cd2d83a"
+    },
+    {
+      "path": "public/brand-logos/yema-dual-wordmark.png",
+      "bytes": 7925,
+      "sha256": "f61ed43525c0c0b3c6a70d2b036fbbadd78574dbf8439e887824745c1c9d97c0"
+    },
+    {
+      "path": "public/brand-logos/zelos-logo.png",
+      "bytes": 62655,
+      "sha256": "17ed68715c0f258d3dbf037592d5150fc27c174994920a1e0851a18cf28b6651"
+    },
+    {
+      "path": "public/brand-logos/zelos-name.png",
+      "bytes": 5870,
+      "sha256": "7add915662726f2fc77a3b6abf446202e99db47143742c10404b2341ff62e813"
+    },
+    {
+      "path": "public/brands.js",
+      "bytes": 13777,
+      "sha256": "961769a43869f01184b3d5a12a0b97a8b8afd9296898978bb73a0c9c27658a5b"
+    },
+    {
+      "path": "public/collection.html",
+      "bytes": 15009,
+      "sha256": "4c38c621759881a914e678bb7161df851761afc38035c673979c1e7e92dcc614"
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 712,
+      "sha256": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7"
+    },
+    {
+      "path": "public/file.svg",
+      "bytes": 392,
+      "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+    },
+    {
+      "path": "public/globe.svg",
+      "bytes": 1036,
+      "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+    },
+    {
+      "path": "public/i18n.js",
+      "bytes": 8111,
+      "sha256": "b663cc5cf184ea5fe8c3bfb36a25dab0d5ad3f7d08f9df65d1182fd9acfcd9fb"
+    },
+    {
+      "path": "public/main.js",
+      "bytes": 32298,
+      "sha256": "4bead434d4da78668c59fbb9fc985526d0b5fd59f48676672524c5d4dae9b71d"
+    },
+    {
+      "path": "public/public/ASSET-CREDITS.txt",
+      "bytes": 186,
+      "sha256": "e608e7b8e634792350c7e5ed0ad09e75fa722586263ef991ff530bd55b7d0307"
+    },
+    {
+      "path": "public/public/CORMORANT-LICENSE.txt",
+      "bytes": 4385,
+      "sha256": "b649e80017690c65b70bfd19c57682a09323e17cef1481b0063aba9b2ee64450"
+    },
+    {
+      "path": "public/public/FONT-LICENSE.txt",
+      "bytes": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "public/storage.js",
+      "bytes": 7125,
+      "sha256": "5956f48d0f9ef55182581868836db5e4c907d6f2cde311c5b7fe9a1a8530fe7d"
+    },
+    {
+      "path": "public/style.css",
+      "bytes": 37425,
+      "sha256": "afb0baaeb61ea55b081b58ec59d2f35352dc0bed9da30080e59a18196dc0e81d"
+    },
+    {
+      "path": "public/window.svg",
+      "bytes": 386,
+      "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+    },
+    {
+      "path": "scripts/build-verified.sh",
+      "bytes": 661,
+      "sha256": "2ae5329ac860076070c9217a43106a15cb5ecf907a0f7baeb9ef903f76b53c68"
+    },
+    {
+      "path": "scripts/connector-preview/connector-preview-session.mjs",
+      "bytes": 6842,
+      "sha256": "45d5d0511a5b9689278b59570223017cdd3c4129431c6745e710c26323cac45c"
+    },
+    {
+      "path": "scripts/connector-preview/host-binding.mjs",
+      "bytes": 7793,
+      "sha256": "9e44ab6864133a5c82f834a5904ebb7d6104cb783c24efba3c0fe1a161182cea"
+    },
+    {
+      "path": "scripts/connector-preview/protocol.mjs",
+      "bytes": 1781,
+      "sha256": "111e062ebf08d3f180130f5bc3dcb3c1414c1d7be3c032c9d675a61c0c7513a8"
+    },
+    {
+      "path": "scripts/execution-profile.mjs",
+      "bytes": 624,
+      "sha256": "2e71116f4d2b70cff8bb70436f8dd5c709ec7ff62893424530f404e0193d3630"
+    },
+    {
+      "path": "scripts/install-ci.mjs",
+      "bytes": 1685,
+      "sha256": "4a5a92d60a08d0ba54effd8373da2da06284312c55b767287c68a0bec7200da7"
+    },
+    {
+      "path": "scripts/install-ci.sh",
+      "bytes": 6783,
+      "sha256": "10d8764a61be50351dc3496e13588270de7956f0aa5f1189c49cabb2d89fe5c0"
+    },
+    {
+      "path": "scripts/install-pnpm.sh",
+      "bytes": 9015,
+      "sha256": "a684c02c2b493dfbf262a66252a5cd36f81ca995a4024761728662ae63aa40c0"
+    },
+    {
+      "path": "scripts/npm-install.mjs",
+      "bytes": 7025,
+      "sha256": "9715c6a32d1d4a0289ef6376a0e819c3b6a6416b8a9877733d9fb4339ce626b6"
+    },
+    {
+      "path": "scripts/pnpm-install.mjs",
+      "bytes": 10633,
+      "sha256": "a83164e344c1947053def83b546be8115deaa827314bbaead7afe6b6451c5cdf"
+    },
+    {
+      "path": "scripts/run-framework.mjs",
+      "bytes": 993,
+      "sha256": "9bf9f41a29314cabe0238b8e9c540ec3f7b5a6adafc7c8fb6c3940722d061dca"
+    },
+    {
+      "path": "scripts/sites-env.mjs",
+      "bytes": 906,
+      "sha256": "5de99d6806b01f0ee0b941af3684d75dcf1afbbcff22cb95bfa2e584c5dafa88"
+    },
+    {
+      "path": "scripts/sites-env.sh",
+      "bytes": 1530,
+      "sha256": "df86ebfc27d2f00860036658e933ac0ddd7b5f6879aa5d51218f0863c7e1fb60"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 800,
+      "sha256": "7199c6e4e400921e8049729840165a39f1476fa97901bed00239e7697bfe8da4"
+    },
+    {
+      "path": "vendor/shadcn-tailwind-4.13.0.LICENSE.md",
+      "bytes": 1063,
+      "sha256": "1564074e13439397221ffd522e2e504d56561994a23d371aa5e3ad43e4f5423f"
+    },
+    {
+      "path": "vendor/shadcn-tailwind-4.13.0.css",
+      "bytes": 16041,
+      "sha256": "bc7d83425702955b4cb67cb14ede9d603f9d912376d57a2d81d661094d2a782a"
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 3115,
+      "sha256": "6f6d890794fbe23f3e35cceb327f49d5977432a5aaf715e040a6408932da395b"
+    }
+  ]
+}
