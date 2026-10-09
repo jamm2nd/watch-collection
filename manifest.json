@@ -2,12 +2,12 @@
   "format": "watch-collection-manifest-v1",
   "version": "1.0.0",
   "source": {
-    "file": "watch-collection-1.0-8140abff25a0bfe5.json",
-    "bytes": 19357568,
-    "sha256": "8140abff25a0bfe57327ab23d17cee9057ebb160e3f5f5298a15208f918180a2"
+    "file": "watch-collection-1.0-3afc3a2f80ba48b7.json",
+    "bytes": 19358990,
+    "sha256": "3afc3a2f80ba48b74b6f92b179ef8c90b3899c154390b4e90468645cd3429f16"
   },
-  "file_count": 298,
-  "total_file_bytes": 14480426,
+  "file_count": 297,
+  "total_file_bytes": 14481601,
   "files": [
     {
       "path": ".gitignore",
@@ -77,7 +77,7 @@
     {
       "path": "app/page.tsx",
       "bytes": 301,
-      "sha256": "7f7969027d81b58f42474dd2857169c479657270b2630ca2d6f3266f506b93a5"
+      "sha256": "485719a3a3be978c0aaa66284825a4ea5cda1f0f47f2c9178131565ee97986ee"
     },
     {
       "path": "build/connector-preview-plugin.mjs",
@@ -508,11 +508,6 @@
       "path": "lib/utils.ts",
       "bytes": 177,
       "sha256": "53f3d3d070f0a9082934da25b875f9499855c2b0693868dd28be8c23d8730f68"
-    },
-    {
-      "path": "next-env.d.ts",
-      "bytes": 284,
-      "sha256": "217ce9348b523c3e6954fb50bb93364b58781d86742c995f3a5b03ba88b9ba72"
     },
     {
       "path": "next.config.ts",
@@ -1356,8 +1351,8 @@
     },
     {
       "path": "public/collection.html",
-      "bytes": 15009,
-      "sha256": "4c38c621759881a914e678bb7161df851761afc38035c673979c1e7e92dcc614"
+      "bytes": 15076,
+      "sha256": "57ed0a6afbde413cf7af689ceeeea3cfc9a80ae0be6d94dffdcd840dad214280"
     },
     {
       "path": "public/favicon.svg",
@@ -1381,8 +1376,8 @@
     },
     {
       "path": "public/main.js",
-      "bytes": 32311,
-      "sha256": "863b06f265af119a4b96c206a182a3211c09cb75dff2e5d301d7f0dc798ecdf1"
+      "bytes": 33613,
+      "sha256": "5833df3ea13349dc87a8d65cef0d7ce35d78f96feff34962eaa6a6ed79934ef5"
     },
     {
       "path": "public/public/ASSET-CREDITS.txt",
@@ -1406,8 +1401,8 @@
     },
     {
       "path": "public/style.css",
-      "bytes": 37828,
-      "sha256": "cb9dce23a54faf0cc3fe37242e9fe068734e685dde5107b63c0911d9f2924e86"
+      "bytes": 37918,
+      "sha256": "cbd114f7dec9aed94bc4993bd27ccbc8cc9d52218b346ff16ee31bd98dd17535"
     },
     {
       "path": "public/window.svg",
