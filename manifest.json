@@ -2,12 +2,12 @@
   "format": "watch-collection-manifest-v1",
   "version": "1.0.0",
   "source": {
-    "file": "watch-collection-1.0-b71d66023e87a482.json",
-    "bytes": 19357008,
-    "sha256": "b71d66023e87a48244715c28061bc17adedfacb87119295f7909cd56ae02af43"
+    "file": "watch-collection-1.0-8140abff25a0bfe5.json",
+    "bytes": 19357568,
+    "sha256": "8140abff25a0bfe57327ab23d17cee9057ebb160e3f5f5298a15208f918180a2"
   },
   "file_count": 298,
-  "total_file_bytes": 14480010,
+  "total_file_bytes": 14480426,
   "files": [
     {
       "path": ".gitignore",
@@ -1381,8 +1381,8 @@
     },
     {
       "path": "public/main.js",
-      "bytes": 32298,
-      "sha256": "4bead434d4da78668c59fbb9fc985526d0b5fd59f48676672524c5d4dae9b71d"
+      "bytes": 32311,
+      "sha256": "863b06f265af119a4b96c206a182a3211c09cb75dff2e5d301d7f0dc798ecdf1"
     },
     {
       "path": "public/public/ASSET-CREDITS.txt",
@@ -1406,8 +1406,8 @@
     },
     {
       "path": "public/style.css",
-      "bytes": 37425,
-      "sha256": "afb0baaeb61ea55b081b58ec59d2f35352dc0bed9da30080e59a18196dc0e81d"
+      "bytes": 37828,
+      "sha256": "cb9dce23a54faf0cc3fe37242e9fe068734e685dde5107b63c0911d9f2924e86"
     },
     {
       "path": "public/window.svg",
