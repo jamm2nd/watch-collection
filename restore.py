@@ -14,6 +14,7 @@ import urllib.request
 
 BASE = 'https://raw.githubusercontent.com/jamm2nd/watch-collection/main/'
 LIMIT = 24 * 1024 * 1024
+PART_LIMIT = 400 * 1024
 BLOCKED = {'.git', 'node_modules', 'dist', '.sites-runtime', '.wrangler', '__pycache__'}
 
 
@@ -29,6 +30,43 @@ def fetch(url, limit):
     if len(result) > limit:
         raise ValueError('Source exceeded the expected size limit.')
     return result
+
+
+def read_source(manifest, directory=None):
+    source = manifest['source']
+    filename = source['file']
+    if not re.fullmatch(r'watch-collection-1\.0-[a-f0-9]{16}\.json', filename):
+        raise ValueError('Unexpected source filename.')
+    if type(source['bytes']) is not int or not 0 < source['bytes'] <= LIMIT:
+        raise ValueError('Invalid source size.')
+    if 'parts' not in source:
+        return (Path(directory) / filename).read_bytes() if directory else fetch(BASE + filename, LIMIT)
+    parts = source['parts']
+    if not isinstance(parts, list) or not 1 <= len(parts) <= 64:
+        raise ValueError('Invalid source part count.')
+    total = 0
+    seen = set()
+    for index, part in enumerate(parts, 1):
+        expected = f'{filename[:-5]}.part-{index:03d}.txt'
+        name = part.get('file') if isinstance(part, dict) else None
+        if name != expected or name in seen:
+            raise ValueError('Unsafe, duplicate, or unordered source part filename.')
+        if type(part.get('bytes')) is not int or not 0 < part['bytes'] <= PART_LIMIT:
+            raise ValueError('Invalid source part size.')
+        if not isinstance(part.get('sha256'), str) or not re.fullmatch(r'[a-f0-9]{64}', part['sha256']):
+            raise ValueError('Invalid source part checksum.')
+        total += part['bytes']
+        seen.add(name)
+    if total != source['bytes'] or total > LIMIT:
+        raise ValueError('Source part total size mismatch.')
+    result = []
+    for part in parts:
+        raw = ((Path(directory) / part['file']).read_bytes() if directory
+               else fetch(BASE + part['file'], part['bytes']))
+        if len(raw) != part['bytes'] or sha(raw) != part['sha256']:
+            raise ValueError(f"Invalid source part: {part['file']}")
+        result.append(raw)
+    return b''.join(result)
 
 
 def validate(manifest, raw):
@@ -83,19 +121,25 @@ def main():
     parser.add_argument('--destination', required=True)
     parser.add_argument('--manifest-file', help='Use a manifest already fetched by your available tools.')
     parser.add_argument('--bundle-file', help='Use the source JSON already fetched by your available tools.')
+    parser.add_argument('--source-directory', help='Read manifest and source parts from a cloned release directory.')
     args = parser.parse_args()
-    if bool(args.manifest_file) != bool(args.bundle_file):
-        parser.error('Provide both local files together, or neither.')
+    if args.bundle_file and (not args.manifest_file or args.source_directory):
+        parser.error('Provide --bundle-file with --manifest-file, without --source-directory.')
+    if args.manifest_file and not (args.bundle_file or args.source_directory):
+        parser.error('Provide --manifest-file with --bundle-file or --source-directory.')
     target = Path(args.destination).absolute()
     if target.exists() or target.is_symlink():
         raise ValueError('Choose a new, nonexistent destination. Existing directories are never overwritten.')
     if not target.parent.is_dir():
         raise ValueError('The destination parent directory must already exist.')
-    manifest = json.loads(Path(args.manifest_file).read_bytes() if args.manifest_file else fetch(BASE + 'manifest.json', 2 * 1024 * 1024))
+    manifest_raw = (Path(args.manifest_file).read_bytes() if args.manifest_file
+                    else (Path(args.source_directory) / 'manifest.json').read_bytes() if args.source_directory
+                    else fetch(BASE + 'manifest.json', 2 * 1024 * 1024))
+    manifest = json.loads(manifest_raw)
     filename = manifest['source']['file']
     if not re.fullmatch(r'watch-collection-1\.0-[a-f0-9]{16}\.json', filename):
         raise ValueError('Unexpected source filename.')
-    raw = Path(args.bundle_file).read_bytes() if args.bundle_file else fetch(BASE + filename, LIMIT)
+    raw = Path(args.bundle_file).read_bytes() if args.bundle_file else read_source(manifest, args.source_directory)
     if len(raw) > LIMIT:
         raise ValueError('Source exceeded size limit.')
     files = validate(manifest, raw)
