@@ -2,12 +2,12 @@
   "format": "watch-collection-manifest-v1",
   "version": "1.0.0",
   "source": {
-    "file": "watch-collection-1.0-3afc3a2f80ba48b7.json",
-    "bytes": 19358990,
-    "sha256": "3afc3a2f80ba48b74b6f92b179ef8c90b3899c154390b4e90468645cd3429f16"
+    "file": "watch-collection-1.0-606ead20091426d4.json",
+    "bytes": 19360676,
+    "sha256": "606ead20091426d45691e4b1a52a7c9e248431ae362d998973a63fd8c36318ed"
   },
-  "file_count": 297,
-  "total_file_bytes": 14481601,
+  "file_count": 299,
+  "total_file_bytes": 14482623,
   "files": [
     {
       "path": ".gitignore",
@@ -36,8 +36,8 @@
     },
     {
       "path": "app/api/collection/route.ts",
-      "bytes": 3504,
-      "sha256": "4dab6b637ffbe40e7aff4a94cc565f18bf3603a1a127a76a2466a3c58ba45479"
+      "bytes": 4023,
+      "sha256": "12b5513d97fe8d32f39f384dc134dc67fdda35d8524f94f7270fdf20e372b82d"
     },
     {
       "path": "app/api/fx/route.ts",
@@ -470,6 +470,11 @@
       "sha256": "1a9b40f76c8522ae8806b732fdbc4289f994d0b8e6aa9f7220a67597bb8496a3"
     },
     {
+      "path": "lib/clean-default-notes.ts",
+      "bytes": 525,
+      "sha256": "4d79de0ee295591d135df0efcb31c1ded8e6c0b72b62d38466e6139b96afb31d"
+    },
+    {
       "path": "lib/connector-context.ts",
       "bytes": 612,
       "sha256": "bbddff68689cb0f6926fecd4b8b96f12f2054277c296e97b0df07d4ad5ece24e"
@@ -495,9 +500,14 @@
       "sha256": "1c93d747e384c8e17e3e3dd5361b24412babf5eba2a11d2ae7a75f4e0924112c"
     },
     {
+      "path": "lib/default-note-cleanup.json",
+      "bytes": 1409,
+      "sha256": "4d214e9ac6166f13cb46b3dd65147f073ef5c223734cd7c9d64568a9cc32c0bc"
+    },
+    {
       "path": "lib/default-watches.json",
-      "bytes": 9843,
-      "sha256": "84239fcced7bec328794cd88a1b51b05673739f8bcd9d125aecd0c6ded70e3c4"
+      "bytes": 8412,
+      "sha256": "e00d3bdb4267a7b22bef9b68a7e58f3fc3e3a5104c20ea47ec9056db8dcb4f81"
     },
     {
       "path": "lib/sample.json",
