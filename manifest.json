@@ -2,12 +2,12 @@
   "format": "watch-collection-manifest-v1",
   "version": "1.0.0",
   "source": {
-    "file": "watch-collection-1.0-e9076bc6ff90edf8.json",
-    "bytes": 19360792,
-    "sha256": "e9076bc6ff90edf8d2ca72c3318c24ffeb56aef7cbc5dbc8f8be99c5e8be7cf5"
+    "file": "watch-collection-1.0-ebd2077ad8bd8a94.json",
+    "bytes": 19361212,
+    "sha256": "ebd2077ad8bd8a945c3dd7e5c42fbc626377ac5c5b1417818ba70aae8b8c6b35"
   },
   "file_count": 299,
-  "total_file_bytes": 14482710,
+  "total_file_bytes": 14483026,
   "files": [
     {
       "path": ".gitignore",
@@ -471,8 +471,8 @@
     },
     {
       "path": "lib/clean-default-notes.ts",
-      "bytes": 663,
-      "sha256": "ef6ec2523bb894124eb4b05c7c1b6cc3eed9d7b7d94dc11fe0d809cfc50f4e68"
+      "bytes": 717,
+      "sha256": "d7494c812443952625215c2795777e830a5fa409efa7e1c1b779443db691d408"
     },
     {
       "path": "lib/connector-context.ts",
@@ -506,8 +506,8 @@
     },
     {
       "path": "lib/default-watches.json",
-      "bytes": 8361,
-      "sha256": "49136587e770ce1be0f2551ecbaabc5b2d06019fb4e925c1de33b05390ef6a91"
+      "bytes": 8324,
+      "sha256": "8a318f6050768cfd35c854537b51f00be1f761fcd7cbd5e52e93842e2986448a"
     },
     {
       "path": "lib/sample.json",
@@ -1411,8 +1411,8 @@
     },
     {
       "path": "public/style.css",
-      "bytes": 37918,
-      "sha256": "cbd114f7dec9aed94bc4993bd27ccbc8cc9d52218b346ff16ee31bd98dd17535"
+      "bytes": 38217,
+      "sha256": "df21e159a4d39556eac4bb1618a8df61d278807cb48d50571d29b6ea965f5509"
     },
     {
       "path": "public/window.svg",
