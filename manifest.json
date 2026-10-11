@@ -1,300 +1,300 @@
 {
   "format": "watch-collection-manifest-v1",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "source": {
-    "file": "watch-collection-1.0-bb4e6f0642377979.json",
-    "bytes": 23286212,
-    "sha256": "bb4e6f0642377979cd2eaa901ae192a6de2c4900fab47be0378da9eb110ba3b5",
+    "file": "watch-collection-1.0-9a92529fb98f3764.json",
+    "bytes": 23292944,
+    "sha256": "9a92529fb98f3764ff4a4bf772398e24b68c47a2fa47b9227e0f21d7d9740aca",
     "parts": [
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-001.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-001.txt",
         "bytes": 409600,
-        "sha256": "8329496edae103baf66cc7a378d8d22c37a45b28c6f0c066fc7708406d1b239c"
+        "sha256": "1fd06e299d86b639ea7d9249dca511b62e52b4c774d552956b2f1ff9264fb43b"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-002.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-002.txt",
         "bytes": 409600,
-        "sha256": "813713a52340006bbed9255925c3b0193a5fc59c49b039853c702abc83dd0771"
+        "sha256": "aadb49fc5bd22d04d165cb46247989be5723c3386433a59e1ae06249799560fe"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-003.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-003.txt",
         "bytes": 409600,
-        "sha256": "bae409eac08187399d985f76be00e4c39297715ff607f2bdebe30fde833ba871"
+        "sha256": "ddcdbb267b72bee639a591de8e18a2da452156fc9b742968fd471a2e84beba18"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-004.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-004.txt",
         "bytes": 409600,
-        "sha256": "161f8c1f1a0a92bc6c29a8507e6ab0ad0372f3fc3fc8d5efdceeaa762bd62cc5"
+        "sha256": "9ce29202fc1a986a9ff819717d0dceab97a4baaa8fd244b02279c80f5686bb5b"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-005.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-005.txt",
         "bytes": 409600,
-        "sha256": "a41cb442dc4f1ccdb556a4bf72542921badba9e824e698b722c6c52aefdd8377"
+        "sha256": "4bafd3e4f53fdab73de67ee8aef414956c859e09b58ecbbf655ee05e001a2837"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-006.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-006.txt",
         "bytes": 409600,
-        "sha256": "b774429d3ea804b249ecc69e35a6535cee2a11b82a5671863f3856e5cb6311f5"
+        "sha256": "d07821c11433bdbb5e879866fa3b59a5b345d6135709e550936252f61c0817ca"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-007.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-007.txt",
         "bytes": 409600,
-        "sha256": "ef7ca173114d4a05736f343d56505eeb11e9fdadf12e7691f474051377ed0d1e"
+        "sha256": "e063a069fc573364cccb5c2223cf93195a6042e2b8be95634f88e7be0ecd4dd8"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-008.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-008.txt",
         "bytes": 409600,
-        "sha256": "c3741e173eaa52cd784ead051710f8df9c70cab83ad7e18d3fe85c3b63b05b3a"
+        "sha256": "331b5bdd5a2efbd5bef847d4cd65dbb8744a8364bae82b458744b0f36c92d675"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-009.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-009.txt",
         "bytes": 409600,
-        "sha256": "0ba44604c792c037c814031c3575e64ebde188a83ab1db25b5bb2c925350d806"
+        "sha256": "899f1421bb5d292a405adbbe5fe2ea8d9b861f6b4c637cea9b6ceea4dbe3d7c8"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-010.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-010.txt",
         "bytes": 409600,
-        "sha256": "59388df0fdbf88af49cc150c7abc950bd1683ee081ed40d398d251a73e814a37"
+        "sha256": "9870de199bff4f6613573f7d6e0a86c1e9749cb4f92d770bc9141bcf949be724"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-011.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-011.txt",
         "bytes": 409600,
-        "sha256": "e0552273bfd3909df0d049e41dbe06bdf2fad69f1436a99374a4e20ca68f5f0c"
+        "sha256": "4f4722e9e0b533361d82861377e714d4b2666ad16ed04f2b384a555e74055960"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-012.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-012.txt",
         "bytes": 409600,
-        "sha256": "c06753cb7761440342672093cb0e93d86c10624c377e55193c1ac0663d299355"
+        "sha256": "d589ba7e092ab8bc6a7fda7a886ceac8fbee6ae59449884c33e96616d7a24394"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-013.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-013.txt",
         "bytes": 409600,
-        "sha256": "fbee312aa72da5a55b4bc76b92d00cf0250d4919249bbaf462f5446e5e18632f"
+        "sha256": "c2f3a0f120d2e3e30ee4bbf3120e8f41e48a9e15e40cd5e5522b9f1cadf553af"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-014.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-014.txt",
         "bytes": 409600,
-        "sha256": "7741b317851ce8639545ad4838592763ade9969dd7226abd1a8235bdd2765881"
+        "sha256": "c2027b093d53192555234d3dc6e0d2db991a3591babb7b9a594bcf469135a5ab"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-015.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-015.txt",
         "bytes": 409600,
-        "sha256": "619271dc9b9cd86a4060421f6c8d5e0e5770979b8f21ecf70cb2e91267822f81"
+        "sha256": "15ae3a2dc32a3e981cd98c4048e8649cc4e4ec0f0e848fc4526e3f3cb1885db0"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-016.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-016.txt",
         "bytes": 409600,
-        "sha256": "3bfefe798ca14df5688180327a9b4f84d56e2b574c02912e985ad0852f36e0d1"
+        "sha256": "bbb5047427706e109400ed15a2bf8da145a738b432360b43f7ba31ddd0ba06f2"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-017.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-017.txt",
         "bytes": 409600,
-        "sha256": "b81f246c9bf59c6b0543b73417e2cd95cecfaa893b05c21582777b2827070188"
+        "sha256": "13b53214142f9db303e0f48191eba71395a5d391f5efcfa9e9400669ad8cb49f"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-018.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-018.txt",
         "bytes": 409600,
-        "sha256": "5915c1a860ad300978b6d0a8a4103b186a2812645b4ec8c297b4d9d0ec0f2df5"
+        "sha256": "32ec84ba6cd16108ce6588b7585c23305e191764cce7695791beff1c3ff3c97e"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-019.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-019.txt",
         "bytes": 409600,
-        "sha256": "e29df336696f8fe665dc06aa521a73840dccfc1f942f37289f2a3902824f3654"
+        "sha256": "f54bd9199e652b9647c5ad0d599b8db280f0d5865d3a8602ff2760c7f40f4d88"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-020.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-020.txt",
         "bytes": 409600,
-        "sha256": "06b099b9975279096b1f3822eb1d51674c229b31f38aada6ef3fd98fe8ce3ad6"
+        "sha256": "afe974bca094bcb2901e4c2251dd9daa0b7bccaa05fe1d73a4c87f5ea80279f2"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-021.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-021.txt",
         "bytes": 409600,
-        "sha256": "0e0903aa4713c0ab02b43bd754a64f747404288aa61164265f58fc6a8ae3fa82"
+        "sha256": "3c88d03b76d00d57acc0158c239f6dc39c86c47453e1d6db4f1e5f5f9a0d2969"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-022.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-022.txt",
         "bytes": 409600,
-        "sha256": "87f5654307eb1ba0e2c77f45d26ced152a302cb0c6753ba03a801790b9b05f54"
+        "sha256": "b60a7eb90fde6e80678c70d0c880ef5eb0e3acf62a5ff67c5630d98140bfc6d7"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-023.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-023.txt",
         "bytes": 409600,
-        "sha256": "1ea654cbba4434c9148fefd13d1f7e2e3693b256e9076c4ebb74d5145bbb1a5f"
+        "sha256": "b0e9cd0823f69200d1953f86a28e6e9163f6410421ad9c18e65031efbb29243e"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-024.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-024.txt",
         "bytes": 409600,
-        "sha256": "fbdcba4a5f031343cbe1a3c60fe1c23c747901007e25949ebef2cd947e77e00d"
+        "sha256": "9aa92e7b4e5df8440a497de55e5766a3a97c633931b4249bcea54c4c66ce6221"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-025.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-025.txt",
         "bytes": 409600,
-        "sha256": "9597303c4deb6d17c6d0d214f6000fc3c9fc0b9a68a4bf435376044f01eb5414"
+        "sha256": "ce314358f7170709c64e158e5e3f0653fc00fde3917f86f7a6b8cfb653ef5056"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-026.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-026.txt",
         "bytes": 409600,
-        "sha256": "81044e32668f82959bfd28339e8c7a135a8f523d83a5d3353dbd43f8bb15781b"
+        "sha256": "9b686d242402536e068deeacda56d03ac85efe6cb346468f96b9993bfac10a1c"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-027.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-027.txt",
         "bytes": 409600,
-        "sha256": "926f11d2f672576e074d05385f19644c691d9b123dd9a7373d691526fe4adca2"
+        "sha256": "d7ebfbf761ad94914afaef5da3698641aa01ff10d3dd8ebce2e46b70366c0292"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-028.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-028.txt",
         "bytes": 409600,
-        "sha256": "e8820b25a07a50730aad35b7aca01f96ef4d7fe99b2a9ee36046d575af7c24a4"
+        "sha256": "461224c05e9193abe7cdef2a5db35d5f61055b4cdcb26fe7bc4dfd5a518aab76"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-029.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-029.txt",
         "bytes": 409600,
-        "sha256": "88a1df4eb1bff9bb9b5ec0c07eb031c9e27146accf8eeec12a312bb0dfdb9deb"
+        "sha256": "783599e8903ef91f1a12ad6fc3da5c3ab66017a01b61f6f265f61726eb7abd77"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-030.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-030.txt",
         "bytes": 409600,
-        "sha256": "029cc13f7bb966325580a97db573c4edeceeea5033186fd087e9ccf16839a06a"
+        "sha256": "5f3270b1b4a5cfbe0d20f69c52a8aceddfdb58247a043a2eecdc6722dea2bb7e"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-031.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-031.txt",
         "bytes": 409600,
-        "sha256": "65fb00fa5faf73dda7de1142901bb827f7098f65782a6f450c3d61a71eaefb79"
+        "sha256": "5b9e372da5b29691e0730f9f4c20aa1da21d1d05534d39a4592c39912752618d"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-032.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-032.txt",
         "bytes": 409600,
-        "sha256": "16e15eac597758d484dc808a15d29e2b191e1449437ee3fc7ff022a869804b65"
+        "sha256": "2cbb3f06b779d9000d1326f1cec9ffd14ab090c97db87a21f94cac9ca9bb4b81"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-033.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-033.txt",
         "bytes": 409600,
-        "sha256": "482b8259011316279bf15f88069b1dc04ef35d3040f2ee90aac2bf1b75817058"
+        "sha256": "87a57aca19c73d6c232f58a5dad4d5b75cb9355508ffed88dcd1bd7ceba6ad7e"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-034.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-034.txt",
         "bytes": 409600,
-        "sha256": "f814ef69ba771f8d22cd99cefde38340cdfee612e6631c32ecc1f0d1c3515f31"
+        "sha256": "df6b207526a636b67f6ae7e3be0d7d0fe7e77721dba2826a330b1a964beefd95"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-035.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-035.txt",
         "bytes": 409600,
-        "sha256": "93579570b9e41cb2f9c0e1cdc7d5e96c3f1b2d488d3df46b44f9ea55a8f22763"
+        "sha256": "b4c615971d3b0c5fe76bb797991278a48b5f48bc3f805c7484221968b65a4872"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-036.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-036.txt",
         "bytes": 409600,
-        "sha256": "839b4a62e80042f9858ae252ef700424a595012403334ba815ac420b48279ebe"
+        "sha256": "c0b4682666292c505e4423ddfa354535e5edcec15dee8860672f668349ac6d60"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-037.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-037.txt",
         "bytes": 409600,
-        "sha256": "fd2286d11ee1000fceb9f1c4444b9bdaaf69f1b4c087da15146273ef8ea51270"
+        "sha256": "5a099ef356f07f085859076340b051cb678e6691888517b2bc2ca7388eda4370"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-038.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-038.txt",
         "bytes": 409600,
-        "sha256": "33869ddaeb8c8b2f9092543d21ef6492d4f525a54c9eacd4fd0e5b1ad84b4335"
+        "sha256": "9a32f316667c43771bd387e897a7492daa606a36440ee3658e675392cf68f810"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-039.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-039.txt",
         "bytes": 409600,
-        "sha256": "7c7340643d1291c979fa596baaf0dc7d4e9f87d301c635f51cd0d3dcea994da0"
+        "sha256": "a5b7fddf74a2488fdbe5d82347e101853247e48d253699f16eae947beb6ad141"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-040.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-040.txt",
         "bytes": 409600,
-        "sha256": "9fdd0a6a377f8b8ba964c657e410252ccce2f5d57f5d0a25f0241a6e95d5d506"
+        "sha256": "786361ff7ec3bcf63ebc1d787cf1905e2e5aea8739e41aefd5b6c04d231d9c42"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-041.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-041.txt",
         "bytes": 409600,
-        "sha256": "ebd6c3bc7947e4a831663b138fcf21d54fdca8005ed057e3b6ab375b8e09b998"
+        "sha256": "337ebed8ad0ec00ce4ed228a2581acd6fb688500c46303f9eb38b593895b4001"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-042.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-042.txt",
         "bytes": 409600,
-        "sha256": "fa1f35e3c63d2096dbd47025d3a53ee089af68fae6ac0d85571348de85d755ed"
+        "sha256": "82d422bde532601d217b360f04a84b7f2c73d580e3e9c45e32255cf86b05689f"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-043.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-043.txt",
         "bytes": 409600,
-        "sha256": "0ee3f35cb6b43cea39bbdf1925aefec2eb99e25191321318609598c529fef03d"
+        "sha256": "857dc47b42c3ab20854821586e4dfa9db231b4ed8154c4f866ccc5d83e604040"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-044.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-044.txt",
         "bytes": 409600,
-        "sha256": "9d229f063c8b293b9e2a89cf81f4ec17150e54f0303526743a552293092b53e3"
+        "sha256": "ad77421a4740fc149dc8ed522dbe70178ecb654c2ebb9e54e95ff22630eddeed"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-045.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-045.txt",
         "bytes": 409600,
-        "sha256": "6121cbdadc8c824d29fb0ed8240dfa56d107970b38a308f30edc2eaa517aa5b8"
+        "sha256": "a1252e97fbe5249d507d9659e3aee5831ad92e462ec457857ec7fbb986b94c05"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-046.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-046.txt",
         "bytes": 409600,
-        "sha256": "1604c6466a43353371875c61dee3dd4565a1c0fc3291de2f46f39665c4c3ceda"
+        "sha256": "fa6b4ae85e1d64523abb212179bd675a3240a2462b018edab9a232967fa69117"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-047.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-047.txt",
         "bytes": 409600,
-        "sha256": "cce63fd2b2cad59be403366ff1a376fdf7d46cfec1d9c28ef440875f2d4a5714"
+        "sha256": "d25fcf09dc30c5a5b6d8775dc0228c4bac486039f646c95fcf95e08698194611"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-048.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-048.txt",
         "bytes": 409600,
-        "sha256": "4206f03e0839c1ebc224d35675807e84212b3623bc04242f36eba6a37f9f0cd4"
+        "sha256": "918e681cb905d917b5f64ba45288d45c374b3272e497b840a5915b1004577a1c"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-049.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-049.txt",
         "bytes": 409600,
-        "sha256": "a97889b7d433d4b3051771636a95b102bc6b7d841ddc8e7aa9abee652e1a51b8"
+        "sha256": "f8a0f7c6c3240d9763f8386d970c2a13d8d9ae957fd2a5e18ef9f41535495c4c"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-050.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-050.txt",
         "bytes": 409600,
-        "sha256": "0086dd3dd3ed46fc2fdc5b441c9761acd8e0bd595be9350c10ebb4142d132030"
+        "sha256": "48787e1c7613bb3e882f745a82ae8d8ee100a7de7bf4d9151ca77a6d09b4b4ae"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-051.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-051.txt",
         "bytes": 409600,
-        "sha256": "293190199c4c2111be5fe6753640fc68bfa103830a3835a92293eed399179bc0"
+        "sha256": "6cf68e3f3d8f7998ac65ee2e57978e631e34618596286b52cf21ea4ab9be6f1c"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-052.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-052.txt",
         "bytes": 409600,
-        "sha256": "14d2a7e3f12c25bc4c47ee19c67d410cd18036bc84173ee43bb1d4590151f97b"
+        "sha256": "04c6badd9ab989a0a642dd4d2a65fa038c01ed6853acf4289b39467e663e4ea7"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-053.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-053.txt",
         "bytes": 409600,
-        "sha256": "1b6d7bfcb96249f5ef05b6ddceba82af0b90dd5ac28c64959cc9bd45a7eaae9e"
+        "sha256": "a7fc47347d8906a08c0eda143de96dcc2aea379cc554bea5e9ee97be7e4233fa"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-054.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-054.txt",
         "bytes": 409600,
-        "sha256": "5620b0e5b2a276f95b34365d5e36fdf9c490027d6b5ca15998e671120a560813"
+        "sha256": "58bab8769bc9dd4113b8e33a0fcb1496dfcebce78a74e7cd6cedd8563908e425"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-055.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-055.txt",
         "bytes": 409600,
-        "sha256": "f6a2315659ce919c231006ed675a8686b416874681ee1ff29d719adff3117884"
+        "sha256": "b6d197fe05f729a0c554892d5efc37091934b7470a529fc53d5e69511be3843a"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-056.txt",
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-056.txt",
         "bytes": 409600,
-        "sha256": "52861556a748bc72c5e391d7a80029ac9a6a3db075ff494417d9caadb1c0265e"
+        "sha256": "b122ecd872dd574978f80bfcd16744575536ce370346761c3b2d775e8aabd262"
       },
       {
-        "file": "watch-collection-1.0-bb4e6f0642377979.part-057.txt",
-        "bytes": 348612,
-        "sha256": "77621fbabaacf987a872a8e89b01b1b82501e8ae56c495b22a222db1083f9aeb"
+        "file": "watch-collection-1.0-9a92529fb98f3764.part-057.txt",
+        "bytes": 355344,
+        "sha256": "8b71c39f97d8bbcee569272e615132c5d27f6a0ae9b0ff5dd78c849c0d1f0e09"
       }
     ]
   },
   "file_count": 382,
-  "total_file_bytes": 17415058,
+  "total_file_bytes": 17420107,
   "files": [
     {
       "path": ".gitignore",
@@ -313,8 +313,8 @@
     },
     {
       "path": "INSTALL.md",
-      "bytes": 17372,
-      "sha256": "2ce7258f8a55ffba764073f2c902e60531fdf7440e691781b66f98898a7fa1a7"
+      "bytes": 17597,
+      "sha256": "88789872ec5461a7c5c596ebd8aec3b1cf1395a9720c217a03924489f22a4d1f"
     },
     {
       "path": "README.md",
@@ -819,7 +819,7 @@
     {
       "path": "package.json",
       "bytes": 2142,
-      "sha256": "93eb2db7b45e7bbb5b8a37bd677ecec69efde92d30d1d759de2f7f42ce8994c4"
+      "sha256": "24cf6bfbeab2d9818970c63953039b45a4c3171547bc8eda9e462d363223fad7"
     },
     {
       "path": "pnpm-lock.yaml",
@@ -2034,7 +2034,7 @@
     {
       "path": "public/collection.html",
       "bytes": 15859,
-      "sha256": "f1d44c4921cb3f9ada0ea034ad0cc1745db16fb679181f4ffacb838ae7b3ce2b"
+      "sha256": "fe94335a1492cb6d3e87bff862deef45590a2df7e65dc13093fe799b8a2ff3e5"
     },
     {
       "path": "public/favicon.svg",
@@ -2059,7 +2059,7 @@
     {
       "path": "public/main.js",
       "bytes": 36080,
-      "sha256": "816a44c2fa4a1bacf2aaf6efc2215b7f77cc678434d4bfeca3abf42f991cd485"
+      "sha256": "81aaa2a1a274dfb9386f3a5347a40d494cf0efa774c88621c2adf016cf6ad5a4"
     },
     {
       "path": "public/photo-sides.js",
@@ -2068,8 +2068,8 @@
     },
     {
       "path": "public/photo-viewer.js",
-      "bytes": 6014,
-      "sha256": "abaf5300820bd96326580aa59ae6f316656123214be564879e1f257b4dd1ca70"
+      "bytes": 7879,
+      "sha256": "4d728a54dd1aa0fdd9cb0a5aa02c252902bb54d6ef845c59488c15b4c69ed278"
     },
     {
       "path": "public/public/ASSET-CREDITS.txt",
@@ -2098,8 +2098,8 @@
     },
     {
       "path": "public/style.css",
-      "bytes": 40958,
-      "sha256": "7146c92598d9b15583059da34359b8ce4835666ea3f709989fad8edb7d0b8eb3"
+      "bytes": 41119,
+      "sha256": "435ac245a9e0d24cd86ff2fa2844af579a201749654635fefe37dbf0ab6e6f2f"
     },
     {
       "path": "public/window.svg",
@@ -2178,8 +2178,8 @@
     },
     {
       "path": "tests/back-photos.test.mjs",
-      "bytes": 15985,
-      "sha256": "db303dcdc67737ea0acac815e2ce1f6e9c3cd0ce9474692ab5cc6517ea82ba47"
+      "bytes": 18783,
+      "sha256": "4c562cd1f850f57bfcf3fd012a5683b82e4d6bc4126df423ff86426a1e3040ab"
     },
     {
       "path": "tests/performance.test.mjs",
