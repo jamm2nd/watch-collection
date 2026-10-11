@@ -1,4 +1,4 @@
-# Watch Collection — Ver. 1.02
+# Watch Collection — Ver. 1.03
 
 ## 설치 방법
 
@@ -98,7 +98,7 @@ python3 restore.py --base-url https://watch-collection-v1.jamm2nd.chatgpt.site/s
 
 ## 버전 및 권리
 
-Watch Collection Ver. 1.02
+Watch Collection Ver. 1.03
 본 Watch Collection앱은 GPT와 연동하여 누구나 사용할 수 있으며, 개량하거나 용도를 바꾸어 사용하는 것은 전부 자유입니다.
 브랜드 명칭, 상표, 제품 이미지와 제3자 폰트에는 각 권리자의 권리가 유지됩니다.
 
@@ -109,3 +109,7 @@ Watch Collection Ver. 1.02
 1.01 이하의 기존 설치를 업데이트할 때는 프런트엔드만 복사하면 안 됩니다. `public/storage.js`와 `lib/backend.ts`의 back, backScale, backOffsetX, backOffsetY 검증·업로드·백업과 imageIds를 검토해 병합합니다. `app/api/collection/route.ts`의 preserveBackPhotos 호출도 함께 적용합니다. 이 호출은 아직 열린 구버전 클라이언트가 모르는 뒷면을 지우지 않도록 보호합니다. 공유 기능을 가진 기존 사이트는 `lib/sharing-core.mjs`의 sharedPhotoAllowed에 back 참조를 추가하되 인증/소유권 검사와 공유 설정을 유지합니다. 인증 파일과 Site ID, DB/PHOTOS 바인딩 및 기록을 교체하지 않습니다. 새 백업은 뒷면을 포함하므로 1.02 이상에서 복원합니다.
 
 `update-from-release.py`가 storage/authentication compatibility에서 멈추면 검사 우회나 프런트엔드 강제 덮어쓰기를 하지 않습니다. GPT가 위 소스 차이를 검토해 기존 인증·데이터를 보존하는 병합을 수행한 뒤 관련 테스트와 빌드를 통과시켜 같은 Site에 배포합니다. 백업 형식(version:1)은 호환되는 선택 필드만 추가하며 DB 스키마 초기화나 기존 레코드 일괄 변환이 필요하지 않습니다.
+
+## Ver. 1.03 사진 편집 및 확대 표시
+앞면·뒷면 선택은 사진 등록 버튼 위에 배치합니다. 확대 보기에서는 저장된 원본 전체를 화면에 맞추고, 썸네일의 위치·크기 설정은 변경하지 않습니다. 기존 사진 저장 모델과 데이터는 그대로 유지합니다.
+확대 감상 화면은 메뉴 없이 전체 화면을 사용합니다. 좌우 드래그·스와이프는 사진을 같은 방향으로 이동시키며 전환하고, 화면 클릭 또는 Esc로 닫습니다.
