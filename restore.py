@@ -117,12 +117,15 @@ def validate(manifest, raw):
 
 
 def main():
+    global BASE
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--destination', required=True)
+    parser.add_argument('--base-url', choices=[BASE, 'https://watch-collection-v1.jamm2nd.chatgpt.site/source/'], default=BASE, help='Choose a published source origin permitted by your environment.')
     parser.add_argument('--manifest-file', help='Use a manifest already fetched by your available tools.')
     parser.add_argument('--bundle-file', help='Use the source JSON already fetched by your available tools.')
     parser.add_argument('--source-directory', help='Read manifest and source parts from a cloned release directory.')
     args = parser.parse_args()
+    BASE = args.base_url
     if args.bundle_file and (not args.manifest_file or args.source_directory):
         parser.error('Provide --bundle-file with --manifest-file, without --source-directory.')
     if args.manifest_file and not (args.bundle_file or args.source_directory):
