@@ -2,299 +2,319 @@
   "format": "watch-collection-manifest-v1",
   "version": "1.0.5",
   "source": {
-    "file": "watch-collection-1.0-9a92529fb98f3764.json",
-    "bytes": 23292944,
-    "sha256": "9a92529fb98f3764ff4a4bf772398e24b68c47a2fa47b9227e0f21d7d9740aca",
+    "file": "watch-collection-1.0-e9059cc8fa22b897.json",
+    "bytes": 24646612,
+    "sha256": "e9059cc8fa22b89717e23051a118f1ab5d4a29592777553c77374530db4f9f72",
     "parts": [
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-001.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-001.txt",
         "bytes": 409600,
-        "sha256": "1fd06e299d86b639ea7d9249dca511b62e52b4c774d552956b2f1ff9264fb43b"
+        "sha256": "0cbfe559da46b2ba2981dbea86d2d551c2acdd0ac08cfc67f75c08b51da98205"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-002.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-002.txt",
         "bytes": 409600,
         "sha256": "aadb49fc5bd22d04d165cb46247989be5723c3386433a59e1ae06249799560fe"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-003.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-003.txt",
         "bytes": 409600,
         "sha256": "ddcdbb267b72bee639a591de8e18a2da452156fc9b742968fd471a2e84beba18"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-004.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-004.txt",
         "bytes": 409600,
         "sha256": "9ce29202fc1a986a9ff819717d0dceab97a4baaa8fd244b02279c80f5686bb5b"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-005.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-005.txt",
         "bytes": 409600,
         "sha256": "4bafd3e4f53fdab73de67ee8aef414956c859e09b58ecbbf655ee05e001a2837"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-006.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-006.txt",
         "bytes": 409600,
         "sha256": "d07821c11433bdbb5e879866fa3b59a5b345d6135709e550936252f61c0817ca"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-007.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-007.txt",
         "bytes": 409600,
         "sha256": "e063a069fc573364cccb5c2223cf93195a6042e2b8be95634f88e7be0ecd4dd8"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-008.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-008.txt",
         "bytes": 409600,
         "sha256": "331b5bdd5a2efbd5bef847d4cd65dbb8744a8364bae82b458744b0f36c92d675"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-009.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-009.txt",
         "bytes": 409600,
         "sha256": "899f1421bb5d292a405adbbe5fe2ea8d9b861f6b4c637cea9b6ceea4dbe3d7c8"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-010.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-010.txt",
         "bytes": 409600,
         "sha256": "9870de199bff4f6613573f7d6e0a86c1e9749cb4f92d770bc9141bcf949be724"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-011.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-011.txt",
         "bytes": 409600,
         "sha256": "4f4722e9e0b533361d82861377e714d4b2666ad16ed04f2b384a555e74055960"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-012.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-012.txt",
         "bytes": 409600,
         "sha256": "d589ba7e092ab8bc6a7fda7a886ceac8fbee6ae59449884c33e96616d7a24394"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-013.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-013.txt",
         "bytes": 409600,
         "sha256": "c2f3a0f120d2e3e30ee4bbf3120e8f41e48a9e15e40cd5e5522b9f1cadf553af"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-014.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-014.txt",
         "bytes": 409600,
         "sha256": "c2027b093d53192555234d3dc6e0d2db991a3591babb7b9a594bcf469135a5ab"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-015.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-015.txt",
         "bytes": 409600,
         "sha256": "15ae3a2dc32a3e981cd98c4048e8649cc4e4ec0f0e848fc4526e3f3cb1885db0"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-016.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-016.txt",
         "bytes": 409600,
         "sha256": "bbb5047427706e109400ed15a2bf8da145a738b432360b43f7ba31ddd0ba06f2"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-017.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-017.txt",
         "bytes": 409600,
         "sha256": "13b53214142f9db303e0f48191eba71395a5d391f5efcfa9e9400669ad8cb49f"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-018.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-018.txt",
         "bytes": 409600,
         "sha256": "32ec84ba6cd16108ce6588b7585c23305e191764cce7695791beff1c3ff3c97e"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-019.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-019.txt",
         "bytes": 409600,
         "sha256": "f54bd9199e652b9647c5ad0d599b8db280f0d5865d3a8602ff2760c7f40f4d88"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-020.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-020.txt",
         "bytes": 409600,
         "sha256": "afe974bca094bcb2901e4c2251dd9daa0b7bccaa05fe1d73a4c87f5ea80279f2"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-021.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-021.txt",
         "bytes": 409600,
         "sha256": "3c88d03b76d00d57acc0158c239f6dc39c86c47453e1d6db4f1e5f5f9a0d2969"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-022.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-022.txt",
         "bytes": 409600,
         "sha256": "b60a7eb90fde6e80678c70d0c880ef5eb0e3acf62a5ff67c5630d98140bfc6d7"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-023.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-023.txt",
         "bytes": 409600,
         "sha256": "b0e9cd0823f69200d1953f86a28e6e9163f6410421ad9c18e65031efbb29243e"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-024.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-024.txt",
         "bytes": 409600,
         "sha256": "9aa92e7b4e5df8440a497de55e5766a3a97c633931b4249bcea54c4c66ce6221"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-025.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-025.txt",
         "bytes": 409600,
         "sha256": "ce314358f7170709c64e158e5e3f0653fc00fde3917f86f7a6b8cfb653ef5056"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-026.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-026.txt",
         "bytes": 409600,
         "sha256": "9b686d242402536e068deeacda56d03ac85efe6cb346468f96b9993bfac10a1c"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-027.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-027.txt",
         "bytes": 409600,
         "sha256": "d7ebfbf761ad94914afaef5da3698641aa01ff10d3dd8ebce2e46b70366c0292"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-028.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-028.txt",
         "bytes": 409600,
         "sha256": "461224c05e9193abe7cdef2a5db35d5f61055b4cdcb26fe7bc4dfd5a518aab76"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-029.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-029.txt",
         "bytes": 409600,
         "sha256": "783599e8903ef91f1a12ad6fc3da5c3ab66017a01b61f6f265f61726eb7abd77"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-030.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-030.txt",
         "bytes": 409600,
         "sha256": "5f3270b1b4a5cfbe0d20f69c52a8aceddfdb58247a043a2eecdc6722dea2bb7e"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-031.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-031.txt",
         "bytes": 409600,
         "sha256": "5b9e372da5b29691e0730f9f4c20aa1da21d1d05534d39a4592c39912752618d"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-032.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-032.txt",
         "bytes": 409600,
         "sha256": "2cbb3f06b779d9000d1326f1cec9ffd14ab090c97db87a21f94cac9ca9bb4b81"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-033.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-033.txt",
         "bytes": 409600,
-        "sha256": "87a57aca19c73d6c232f58a5dad4d5b75cb9355508ffed88dcd1bd7ceba6ad7e"
+        "sha256": "0adabd052e1c2768b2d6e930d43bed0620688dadbffb934254255dd2ab1da5df"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-034.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-034.txt",
         "bytes": 409600,
-        "sha256": "df6b207526a636b67f6ae7e3be0d7d0fe7e77721dba2826a330b1a964beefd95"
+        "sha256": "1854519fc68e8871f92861f5b781acff5b656127f84ff6a87ade52364ae7a05e"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-035.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-035.txt",
         "bytes": 409600,
-        "sha256": "b4c615971d3b0c5fe76bb797991278a48b5f48bc3f805c7484221968b65a4872"
+        "sha256": "358543e8b3938a3b943647e2677248abc0ccffac06e0b1001a092d851d7d1a1a"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-036.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-036.txt",
         "bytes": 409600,
-        "sha256": "c0b4682666292c505e4423ddfa354535e5edcec15dee8860672f668349ac6d60"
+        "sha256": "f6355b3e8b811cecb6c27e5290aa8903e9c724008dbd08057299b2b14de506f4"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-037.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-037.txt",
         "bytes": 409600,
-        "sha256": "5a099ef356f07f085859076340b051cb678e6691888517b2bc2ca7388eda4370"
+        "sha256": "70991eef1912ea058dbfc8ccf0e90373b4a920fe3120d9f8fa28f65b83af8e7a"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-038.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-038.txt",
         "bytes": 409600,
-        "sha256": "9a32f316667c43771bd387e897a7492daa606a36440ee3658e675392cf68f810"
+        "sha256": "02b42e8ba25a42e728b04dcb73c3e2b2aeba37f9b53f149831241f074844c0b4"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-039.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-039.txt",
         "bytes": 409600,
-        "sha256": "a5b7fddf74a2488fdbe5d82347e101853247e48d253699f16eae947beb6ad141"
+        "sha256": "086408b1c6fdc8a4ebf7a9385596b31669ac66b5c4e27595f08700a3e94f28c8"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-040.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-040.txt",
         "bytes": 409600,
-        "sha256": "786361ff7ec3bcf63ebc1d787cf1905e2e5aea8739e41aefd5b6c04d231d9c42"
+        "sha256": "560dcd0a57433f73fca878f896e4773461c1cbec20cc92051d79f15b8b41bb68"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-041.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-041.txt",
         "bytes": 409600,
-        "sha256": "337ebed8ad0ec00ce4ed228a2581acd6fb688500c46303f9eb38b593895b4001"
+        "sha256": "36f18cc24bd227cc707d2a258eaff004d7e8625224229b29e16be2e4d4aa5e2b"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-042.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-042.txt",
         "bytes": 409600,
-        "sha256": "82d422bde532601d217b360f04a84b7f2c73d580e3e9c45e32255cf86b05689f"
+        "sha256": "1272175fa63f4265ec0a5426e311723d04d36933f09c84d05dcb931c0142f2b5"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-043.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-043.txt",
         "bytes": 409600,
-        "sha256": "857dc47b42c3ab20854821586e4dfa9db231b4ed8154c4f866ccc5d83e604040"
+        "sha256": "f464ccdae17ae771aa98d03c556215ac497c2592b673b3ad889bf91a841e9ae2"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-044.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-044.txt",
         "bytes": 409600,
-        "sha256": "ad77421a4740fc149dc8ed522dbe70178ecb654c2ebb9e54e95ff22630eddeed"
+        "sha256": "9bde18fe5d6c9842ca516da18378b5617aab730cba359991fa60a6a710066c9e"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-045.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-045.txt",
         "bytes": 409600,
-        "sha256": "a1252e97fbe5249d507d9659e3aee5831ad92e462ec457857ec7fbb986b94c05"
+        "sha256": "c8c6440910bd3734d950cb1a9a95f258d869535ea70dcae6cca5c04c300a09e3"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-046.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-046.txt",
         "bytes": 409600,
-        "sha256": "fa6b4ae85e1d64523abb212179bd675a3240a2462b018edab9a232967fa69117"
+        "sha256": "69a66bca17ce784d48877e0a44e7f19fe9dd6ecaeb11844d623637a503c9315a"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-047.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-047.txt",
         "bytes": 409600,
-        "sha256": "d25fcf09dc30c5a5b6d8775dc0228c4bac486039f646c95fcf95e08698194611"
+        "sha256": "ca6cb0f058ca99902b3004355112e611ab79d08477d88b1f0b51d760fdced035"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-048.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-048.txt",
         "bytes": 409600,
-        "sha256": "918e681cb905d917b5f64ba45288d45c374b3272e497b840a5915b1004577a1c"
+        "sha256": "007ec5ff039ed91a79c96718d6e3b2afb37ee3b7c806d0fd33822fdebf65fbfc"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-049.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-049.txt",
         "bytes": 409600,
-        "sha256": "f8a0f7c6c3240d9763f8386d970c2a13d8d9ae957fd2a5e18ef9f41535495c4c"
+        "sha256": "ec7544d2b59f936bb7c3508d0f7eaf01447539438b1fce5a238b15444c131dae"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-050.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-050.txt",
         "bytes": 409600,
-        "sha256": "48787e1c7613bb3e882f745a82ae8d8ee100a7de7bf4d9151ca77a6d09b4b4ae"
+        "sha256": "8a2a21e6d518c6dc1f327580add7c1f74703ca2197a3c81d72aec2530af73c65"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-051.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-051.txt",
         "bytes": 409600,
-        "sha256": "6cf68e3f3d8f7998ac65ee2e57978e631e34618596286b52cf21ea4ab9be6f1c"
+        "sha256": "02aa87e8a52d33ccd3f234def777893679327019074888e5dc61681e5b1302b9"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-052.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-052.txt",
         "bytes": 409600,
-        "sha256": "04c6badd9ab989a0a642dd4d2a65fa038c01ed6853acf4289b39467e663e4ea7"
+        "sha256": "b7f900e00c932707253b731cdee701d3ddf7810ba327722f9541dafdbc5675aa"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-053.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-053.txt",
         "bytes": 409600,
-        "sha256": "a7fc47347d8906a08c0eda143de96dcc2aea379cc554bea5e9ee97be7e4233fa"
+        "sha256": "dc890f45f230d8673b38d7e882bc46ab37160a17ead6298e62325b7977b31738"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-054.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-054.txt",
         "bytes": 409600,
-        "sha256": "58bab8769bc9dd4113b8e33a0fcb1496dfcebce78a74e7cd6cedd8563908e425"
+        "sha256": "95212905d678271cdf67f0b4a8cbb613f439a26a3c7600e663f3543b9e34c029"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-055.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-055.txt",
         "bytes": 409600,
-        "sha256": "b6d197fe05f729a0c554892d5efc37091934b7470a529fc53d5e69511be3843a"
+        "sha256": "d12cb04cc1ece53a675108c8d6757a01e20328df788bb99f12cd36d6b194dd7d"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-056.txt",
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-056.txt",
         "bytes": 409600,
-        "sha256": "b122ecd872dd574978f80bfcd16744575536ce370346761c3b2d775e8aabd262"
+        "sha256": "c74c3814d53734eb608f90a80e442b22e7b4aee2cd084dd4d4de863a4cb3d54c"
       },
       {
-        "file": "watch-collection-1.0-9a92529fb98f3764.part-057.txt",
-        "bytes": 355344,
-        "sha256": "8b71c39f97d8bbcee569272e615132c5d27f6a0ae9b0ff5dd78c849c0d1f0e09"
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-057.txt",
+        "bytes": 409600,
+        "sha256": "5b243d1ba57b08d8bb6a6769fa8ea0259861afbd57116887cb60265bc4990011"
+      },
+      {
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-058.txt",
+        "bytes": 409600,
+        "sha256": "0cfb4c239a2ea28af5008a879b20d576b1e89b03f8c0a881ba4b9fa2198b1471"
+      },
+      {
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-059.txt",
+        "bytes": 409600,
+        "sha256": "1fdebf2094893c34a905c5cb9f0359eeccf5b9e062a0e37a42e3aaa2093a09e8"
+      },
+      {
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-060.txt",
+        "bytes": 409600,
+        "sha256": "83bb2740d5f33d095917dec6d2afbcf47c7da5c1760c8409154d291b6c665f50"
+      },
+      {
+        "file": "watch-collection-1.0-e9059cc8fa22b897.part-061.txt",
+        "bytes": 70612,
+        "sha256": "38b415f384f7a73c9fe555d446d48113ecd9bed004d473d00fd382c61852219f"
       }
     ]
   },
-  "file_count": 382,
-  "total_file_bytes": 17420107,
+  "file_count": 432,
+  "total_file_bytes": 18428161,
   "files": [
     {
       "path": ".gitignore",
@@ -363,8 +383,8 @@
     },
     {
       "path": "app/page.tsx",
-      "bytes": 314,
-      "sha256": "bb72b6ada51f892b4b9c0b05380ebb23512fdfec3e7ee979982eeb4777bf845f"
+      "bytes": 313,
+      "sha256": "4b2577b6af897569bc54937dd771b77d7bb5db7bea76ee7c9d62f371abb1eee8"
     },
     {
       "path": "build/connector-preview-plugin.mjs",
@@ -953,18 +973,28 @@
     },
     {
       "path": "public/brand-logo-sources.json",
-      "bytes": 23864,
-      "sha256": "5fc7faf67ae663edb01c34dbab5991dc34d8a6c7d5a96c5cb917371011d25063"
+      "bytes": 44848,
+      "sha256": "8161c5b7ebd8852a27762ec876205063e14c56e9e196230522dd875b1e1fb3cb"
     },
     {
       "path": "public/brand-logos.json",
-      "bytes": 23989,
-      "sha256": "47c251984b8881c9ecb7ad1385151d82ec1143d4e832821cdee86b27a77a0e3d"
+      "bytes": 31608,
+      "sha256": "4e3f622dfba3292f42ce163ad244c13092c05167f5e2a1074e92de40b85f35fa"
     },
     {
       "path": "public/brand-logos/a--lange---söhne-logo.png",
       "bytes": 52294,
       "sha256": "62025a580bb3af2530de34f8891c489e4608bc018c0c76ba276071077e40f6db"
+    },
+    {
+      "path": "public/brand-logos/added-aesop-symbol-20261012.png",
+      "bytes": 2681,
+      "sha256": "97da23feb5738597a0bd791a6eca18f59450951cd48fcebb78f48612474e7968"
+    },
+    {
+      "path": "public/brand-logos/added-aesop-wordmark-20261012.png",
+      "bytes": 2123,
+      "sha256": "743179d3fd7c9eaa847d7195cfc721e852146e52f4e1442fe195a0a2d8cdcc47"
     },
     {
       "path": "public/brand-logos/added-alpina-full-20261010.png",
@@ -982,6 +1012,31 @@
       "sha256": "ef34ac67f9659eb513647ac3b6c2cf76b1ca16a244ec90198af73cab2b97c0ac"
     },
     {
+      "path": "public/brand-logos/added-andersen-geneve-full-20261012.png",
+      "bytes": 31879,
+      "sha256": "086cbb3b3a776e3779ed0e0d9c7077f523fc2bc0fd32f4c4b4b2c19ab087b9b8"
+    },
+    {
+      "path": "public/brand-logos/added-andreas-strehler-symbol-20261012.png",
+      "bytes": 37380,
+      "sha256": "2df1e9ffb7f2e395e2f4da2ff3d6fe236cef84873fc3a4b0477cb4fd8aa1c7bd"
+    },
+    {
+      "path": "public/brand-logos/added-andreas-strehler-wordmark-20261012.png",
+      "bytes": 2794,
+      "sha256": "1fc51c08ff537886263628a32bb970ecaf7910606ca1c41301ae444c376dc2cb"
+    },
+    {
+      "path": "public/brand-logos/added-atelier-wen-symbol-20261012.png",
+      "bytes": 18414,
+      "sha256": "10f41200a3cf6632368477865e630627848326d3aa2f240887fa8d9c900e7520"
+    },
+    {
+      "path": "public/brand-logos/added-atelier-wen-wordmark-20261012.png",
+      "bytes": 23052,
+      "sha256": "93f771a6ee237bf2aef4be10254b7b81ac0ce0f720768f2ed3abc0be8e265aff"
+    },
+    {
       "path": "public/brand-logos/added-baume-mercier-full-20261010.png",
       "bytes": 39802,
       "sha256": "b785303f8fc7353b169d8b92cf44c771126d3f3e89d3f82a2ebc9aff5877e74a"
@@ -995,6 +1050,26 @@
       "path": "public/brand-logos/added-baume-mercier-wordmark-20261010.png",
       "bytes": 31169,
       "sha256": "636d80ee05deefe3829c46091241159afd543e683c62982a7be00a478aa8e2c5"
+    },
+    {
+      "path": "public/brand-logos/added-beaubleu-symbol-20261012.png",
+      "bytes": 20722,
+      "sha256": "f9de747ac6cea3f9f9f2607cfe964bac73a31b48b89f8d78396178d9fc15e872"
+    },
+    {
+      "path": "public/brand-logos/added-beaubleu-wordmark-20261012.png",
+      "bytes": 12584,
+      "sha256": "61764e047aa2e34a7c5197504495501b2ebac4b03c5b8424105822e8045d9668"
+    },
+    {
+      "path": "public/brand-logos/added-berneron-symbol-20261012.png",
+      "bytes": 14597,
+      "sha256": "e9ec705ee7f5335c9f6b750b630c49bb31d2f28d466e92001a8796a0daf6abdd"
+    },
+    {
+      "path": "public/brand-logos/added-berneron-wordmark-20261012.png",
+      "bytes": 39444,
+      "sha256": "930ea2eb977b9ff2f8fe3fb2f95b5596ad6a68190cd3108ed4727d60bf2908ea"
     },
     {
       "path": "public/brand-logos/added-blancpain-symbol-20261010.png",
@@ -1042,6 +1117,21 @@
       "sha256": "5d314c03edf8f5d2c49dfc09a2ce4523dcb66f4c9ddac61421d691ea51391941"
     },
     {
+      "path": "public/brand-logos/added-cyril-brivet-naudot-symbol-20261012.png",
+      "bytes": 32112,
+      "sha256": "8a81e3449df1f5263f2dd3e8f175cf716cdd7e14ad01fea75c145d60487bfec6"
+    },
+    {
+      "path": "public/brand-logos/added-cyril-brivet-naudot-wordmark-20261012.png",
+      "bytes": 44684,
+      "sha256": "08727dc8b8fb669cec3a22072c21b8ccea091f4f63f8d4a7c22696880f0fcfe3"
+    },
+    {
+      "path": "public/brand-logos/added-dominic-reuno-full-20261012.png",
+      "bytes": 19398,
+      "sha256": "41aca85b67d34e1bf3a8f2eb6172e5ddec2700c9b086d35680d2a4ee166a2d9d"
+    },
+    {
       "path": "public/brand-logos/added-doxa-full-20261010.png",
       "bytes": 19255,
       "sha256": "6b2466beb11a1a0415fb1c5dfeb4e94cf6db774d16551426889678f1cd776cfb"
@@ -1060,6 +1150,16 @@
       "path": "public/brand-logos/added-f-p-journe-wordmark-20261010.png",
       "bytes": 39882,
       "sha256": "c8172ae0f407ee7981c6edc25e6f84051f9e7f0e03f820a5ffc2b6139e7251dd"
+    },
+    {
+      "path": "public/brand-logos/added-feice-symbol-20261012.png",
+      "bytes": 11145,
+      "sha256": "a00de8f52b2b35d6566b0432c233ef0e377dbf882caec39921ac275459f14867"
+    },
+    {
+      "path": "public/brand-logos/added-feice-wordmark-20261012.png",
+      "bytes": 24205,
+      "sha256": "b1ccfa3f7bc55cb83b99f784e938219caf0e3c8fd5b05647bb1bd7766a85e81e"
     },
     {
       "path": "public/brand-logos/added-franck-muller-full-20261010.png",
@@ -1112,6 +1212,31 @@
       "sha256": "26fbc8cb2f4826b2fee24c93f3fb505abcf7af044c8a254fe293ba21af06d6db"
     },
     {
+      "path": "public/brand-logos/added-hajime-asaoka-full-20261012.png",
+      "bytes": 20640,
+      "sha256": "5b408a0cc4074c7be3c70ab4df76c0f26ac0fc152ab65c1ecdbab2b4baea4c6d"
+    },
+    {
+      "path": "public/brand-logos/added-haute-rive-full-20261012.png",
+      "bytes": 17481,
+      "sha256": "7b0c04d82779b6b8f0b1a42505b5d9d88030fa38026f0d8efe94c1bdffbc89c2"
+    },
+    {
+      "path": "public/brand-logos/added-hautlence-symbol-20261012.png",
+      "bytes": 14971,
+      "sha256": "ab05da4e88f69c6dfd67564a26b5afb799a06b3a211b85c498e2bd93cd5a6e5c"
+    },
+    {
+      "path": "public/brand-logos/added-hautlence-wordmark-20261012.png",
+      "bytes": 9975,
+      "sha256": "589cba746f59fdce864869e2d282629a891ed4d64266d0f675040364e01248a7"
+    },
+    {
+      "path": "public/brand-logos/added-healmer-full-20261012.png",
+      "bytes": 5188,
+      "sha256": "c3feb901efb113fb8c4defb24e31e5e3448813c4e6e03c59f6a52d89b202146e"
+    },
+    {
       "path": "public/brand-logos/added-hermes-full-20261010.png",
       "bytes": 89013,
       "sha256": "baa33b06b8aa5266e13f491a0e0e4dc58f0488063fb6ae535bb69689db538123"
@@ -1125,6 +1250,11 @@
       "path": "public/brand-logos/added-hermes-wordmark-20261010.png",
       "bytes": 28819,
       "sha256": "e73f3fa062ee9353823fea477da8be38184ecfb97037b5cd2b0921651b8269b0"
+    },
+    {
+      "path": "public/brand-logos/added-horizon-watches-full-20261012.png",
+      "bytes": 7153,
+      "sha256": "441734c94833dc53018dd18fe304ffa00d46d4f483359a0ff0d7cc386766b6ae"
     },
     {
       "path": "public/brand-logos/added-hyt-wordmark-20261010.png",
@@ -1150,6 +1280,21 @@
       "path": "public/brand-logos/added-jaquet-droz-wordmark-20261010.png",
       "bytes": 27205,
       "sha256": "123df4cb45182d868d093d4357bf77616c6aaa309fc29b73a9674df304bd3621"
+    },
+    {
+      "path": "public/brand-logos/added-kikuchi-nakagawa-full-20261012.png",
+      "bytes": 16670,
+      "sha256": "2695e586f6646c510d6d507eb247021fe9b23e817315b15bf20a12ca55f5ac57"
+    },
+    {
+      "path": "public/brand-logos/added-krayon-full-20261012.png",
+      "bytes": 16198,
+      "sha256": "5b34019facb5b82040302f468e0e8f8e8eb07f56ded748b7593234f6de0276c1"
+    },
+    {
+      "path": "public/brand-logos/added-lederer-full-20261012.png",
+      "bytes": 6804,
+      "sha256": "1b81cdc867452fedaeebf29e0072dc212c8395a7d52f9c3e2c962d3a392f8f36"
     },
     {
       "path": "public/brand-logos/added-louis-erard-symbol-20261010.png",
@@ -1197,6 +1342,36 @@
       "sha256": "8fbd19a272ee9770ec4ebfeaec36bc8f8dd4ffda9780d1e1b16b333354c34476"
     },
     {
+      "path": "public/brand-logos/added-naoya-hida-full-20261012.png",
+      "bytes": 19475,
+      "sha256": "48e3b3e795b922a0cd892f09a01123561e857868e47d2385d7ef6eb1eeeff9eb"
+    },
+    {
+      "path": "public/brand-logos/added-ochs-und-junior-full-20261012.png",
+      "bytes": 42196,
+      "sha256": "397e718f76bc0ba1b0353c838828cc0766682496fea90aaaf69dca79086034dd"
+    },
+    {
+      "path": "public/brand-logos/added-oriental-cherry-full-20261012.png",
+      "bytes": 16736,
+      "sha256": "d2e052470399997f38c9baaa9815feba4a201dc3fc815d01a01acfae9d3fc767"
+    },
+    {
+      "path": "public/brand-logos/added-parasute-full-20261012.png",
+      "bytes": 8721,
+      "sha256": "bbf6777637ca60cdc1324ee7de32cf1051c3a64267b059615807a3c1768453d8"
+    },
+    {
+      "path": "public/brand-logos/added-petermann-bedat-symbol-20261012.png",
+      "bytes": 1797,
+      "sha256": "c1e07634e218859fc35c93ec30f51438ec5807d58ae8b69bf54df5293ea8bb3e"
+    },
+    {
+      "path": "public/brand-logos/added-petermann-bedat-wordmark-20261012.png",
+      "bytes": 4364,
+      "sha256": "e5e21847d42fc8e8bab5bfbc23b74e75a31a9e79b8d98c2f7d9b265bf88fe363"
+    },
+    {
       "path": "public/brand-logos/added-philippe-dufour-symbol-20261010.png",
       "bytes": 58705,
       "sha256": "f8f9b7b12b9f91e8853df94875885904cfcc3ea88beb36236430f2820bd7ce60"
@@ -1207,6 +1382,41 @@
       "sha256": "de7d59dd034e4ef26174c7ab3bf939ebec41972a7c77f93220d1b6b6767f10aa"
     },
     {
+      "path": "public/brand-logos/added-poljot-international-symbol-20261012.png",
+      "bytes": 8548,
+      "sha256": "9ce53ea6e63efa041a47495561747dad603de1f17157a5663ed3deb3eeaa0a11"
+    },
+    {
+      "path": "public/brand-logos/added-poljot-international-wordmark-20261012.png",
+      "bytes": 22539,
+      "sha256": "c422813930c6a33311a7af225edd642f3d57121afab78e97ffca55b48d0087de"
+    },
+    {
+      "path": "public/brand-logos/added-qin-gan-full-20261012.png",
+      "bytes": 11210,
+      "sha256": "ba269b5883077857a5cc8cae19c5d661f99bfa352679550ba222e9e88338e7ea"
+    },
+    {
+      "path": "public/brand-logos/added-raul-pages-symbol-20261012.png",
+      "bytes": 12289,
+      "sha256": "36afda8a981a3f9049093dc2597d389c2ea9e90326258fa0f2773c468d0380e7"
+    },
+    {
+      "path": "public/brand-logos/added-raul-pages-wordmark-20261012.png",
+      "bytes": 51246,
+      "sha256": "1b1036d0ec2419fd932ec6b927016b128994d6ba17cc9a672d8801b23b214acf"
+    },
+    {
+      "path": "public/brand-logos/added-remy-cools-symbol-20261012.png",
+      "bytes": 16738,
+      "sha256": "e41dd9d4956a7b1f220d093ac658b7ca60ea2fa640f588f68aa4273d4380da75"
+    },
+    {
+      "path": "public/brand-logos/added-remy-cools-wordmark-20261012.png",
+      "bytes": 30839,
+      "sha256": "b6feffc6bb50cfc9ae5e201aca2b52180db84c68fdfe42f255013f98faf1076b"
+    },
+    {
       "path": "public/brand-logos/added-ressence-symbol-20261010.png",
       "bytes": 42974,
       "sha256": "a3ee69071ea344927a4b7d690db61809d4563e7ae5e13fc22d3761d18484ce59"
@@ -1215,6 +1425,11 @@
       "path": "public/brand-logos/added-ressence-wordmark-20261010.png",
       "bytes": 37698,
       "sha256": "0e68bdf1b391adfa958ca73041cd7d79a438a9a4d5a04800e6a89772b3d007d9"
+    },
+    {
+      "path": "public/brand-logos/added-reuno-tixcie-full-20261012.png",
+      "bytes": 14226,
+      "sha256": "33e96722a2be046c6ef348bc8cdb5d354cc8985766eb7d3822fe07cd99313e20"
     },
     {
       "path": "public/brand-logos/added-richard-mille-full-20261010.png",
@@ -1237,6 +1452,11 @@
       "sha256": "68060229c32b468a83a0f1a661c1e68e040ccb1787883fd68362edcdc5d765d1"
     },
     {
+      "path": "public/brand-logos/added-roger-w-smith-full-20261012.png",
+      "bytes": 27209,
+      "sha256": "52e54e7782488121d1f6417b2dc197b9c9e97e69126adbaebe15321def5ee7ce"
+    },
+    {
       "path": "public/brand-logos/added-romain-gauthier-symbol-20261010.png",
       "bytes": 52790,
       "sha256": "29592f8ffdb09db0d5992ff6adc7ac732cb758e619b9c071a3158be9e5ed0cf1"
@@ -1252,6 +1472,16 @@
       "sha256": "9ee1f000bcb4ab26ce5569b3bb727176166605212ddae24313e8f6961d6b576e"
     },
     {
+      "path": "public/brand-logos/added-simon-brette-symbol-20261012.png",
+      "bytes": 13603,
+      "sha256": "3ca7213104addbbc9d43ba4e27965d0316810049b13e69d5c2798230e8b7d479"
+    },
+    {
+      "path": "public/brand-logos/added-simon-brette-wordmark-20261012.png",
+      "bytes": 16661,
+      "sha256": "b215f8b275ca09ac8dc1d7cb49d5bf49e91e11911ab65814c99e86d7de77b742"
+    },
+    {
       "path": "public/brand-logos/added-sinn-full-20261010.png",
       "bytes": 46881,
       "sha256": "e56467a10085b16ab6b259a6404d1b54f0d63fff823f9c8d5470b629a5e71576"
@@ -1260,6 +1490,31 @@
       "path": "public/brand-logos/added-sinn-wordmark-20261010.png",
       "bytes": 61081,
       "sha256": "8a5d7d18a833534ef2512dcf38af8a2ecaa812d91724b0fb1db523c6e5643123"
+    },
+    {
+      "path": "public/brand-logos/added-sylvain-pinaud-symbol-20261012.png",
+      "bytes": 2389,
+      "sha256": "23012d3af34c6977b0b06638eaea1f9e0c5e55a0d8d610e2de96faa53b3fc735"
+    },
+    {
+      "path": "public/brand-logos/added-sylvain-pinaud-wordmark-20261012.png",
+      "bytes": 3261,
+      "sha256": "5b264154badca361d1b214faf3d8cf2727ee847ccc97a7ad9913ae6a098c9ef1"
+    },
+    {
+      "path": "public/brand-logos/added-theo-auffret-full-20261012.png",
+      "bytes": 71598,
+      "sha256": "0b831dd9232325c2ba342dec5612b406c2483608e9333e6ac2293bd73f31d479"
+    },
+    {
+      "path": "public/brand-logos/added-timeless-symbol-20261012.png",
+      "bytes": 24891,
+      "sha256": "4030b69ee362b756aae01499495d8abb028aac556092b735482d6becc231018e"
+    },
+    {
+      "path": "public/brand-logos/added-timeless-wordmark-20261012.png",
+      "bytes": 27354,
+      "sha256": "0bd1a25f8c52522977be5d100be1046ccfc1571c8d0557201706c273a8bb270e"
     },
     {
       "path": "public/brand-logos/added-tissot-symbol-20261010.png",
@@ -1280,6 +1535,11 @@
       "path": "public/brand-logos/added-trilobe-wordmark-20261010.png",
       "bytes": 69756,
       "sha256": "e101b3d1d6d741c86e17c279d78d1e51ac4b60857a410028d046ad56f5450691"
+    },
+    {
+      "path": "public/brand-logos/added-trump-watches-full-20261012.png",
+      "bytes": 31800,
+      "sha256": "da4793e5c62e51d0500010adbfa832121ebbdfe906cbf0dc77b7b0d06df38cce"
     },
     {
       "path": "public/brand-logos/added-tudor-symbol-20261010.png",
@@ -1330,6 +1590,16 @@
       "path": "public/brand-logos/added-voutilainen-wordmark-20261010.png",
       "bytes": 18833,
       "sha256": "a9acbcb4d17f538735bfda4aae6d8e8ca5c5471a126feac8d82efb9662734b31"
+    },
+    {
+      "path": "public/brand-logos/added-xeric-symbol-20261012.png",
+      "bytes": 10497,
+      "sha256": "8e8a67abf22f26f65ffa0b2981cf67914082c6fb7777844d1209d654e6431ef3"
+    },
+    {
+      "path": "public/brand-logos/added-xeric-wordmark-20261012.png",
+      "bytes": 24784,
+      "sha256": "4a757f7a8c71e60b03feb58b2159a40ced536b4b5e4c126d23e72916b73aab16"
     },
     {
       "path": "public/brand-logos/added-zenith-symbol-20261010.png",
@@ -2028,13 +2298,13 @@
     },
     {
       "path": "public/brands.js",
-      "bytes": 20066,
-      "sha256": "ca53ecb0137b6ca90a13ee5d4b6998a85b7a62ebcdd216ae0eb1a46a6c6e1e71"
+      "bytes": 32243,
+      "sha256": "225d53ff986989d6291e7bbfad93155420191b32f0fddc4fe3529fa95f98a89d"
     },
     {
       "path": "public/collection.html",
-      "bytes": 15859,
-      "sha256": "fe94335a1492cb6d3e87bff862deef45590a2df7e65dc13093fe799b8a2ff3e5"
+      "bytes": 15869,
+      "sha256": "f0864fffac22d0f10fdc0118eb753d0f00a45b45cae39320a541f7ef29f8a192"
     },
     {
       "path": "public/favicon.svg",
@@ -2059,7 +2329,7 @@
     {
       "path": "public/main.js",
       "bytes": 36080,
-      "sha256": "81aaa2a1a274dfb9386f3a5347a40d494cf0efa774c88621c2adf016cf6ad5a4"
+      "sha256": "10d88f910954608a68844c9a13921b3d29f7f7ae65f1c5b4ef39981bb93aeead"
     },
     {
       "path": "public/photo-sides.js",
